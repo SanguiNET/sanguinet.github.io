@@ -10,8 +10,8 @@
 ################################################################# */ 
 @import url(http://fonts.googleapis.com/css?family=Raleway:400,700,900);
 @import url(http://fonts.googleapis.com/css?family=Lato:400,900);
-@import url("prettyPhoto.css") screen;
-@import url("hoverex-all.css") screen;
+@import url("_includes/css/prettyPhoto.css") screen;
+@import url("_includes/css/hoverex-all.css") screen;
 
 /*	################################################################
 	1. GENERAL STRUCTURES
@@ -309,7 +309,7 @@ a:focus {
 }
 
 #twrap {
-    background: url(../img/t-back.jpg) no-repeat center top;
+    background: url(_includes/img/t-back.jpg) no-repeat center top;
     position: relative;
     margin-top: 0px;
 	padding-top:60px;
@@ -441,7 +441,7 @@ csmall {
 
 /* Contact Page */
 #contactwrap {
-	background: url(../img/contact.jpg) no-repeat center top;
+	background: url(_includes/img/contact.jpg) no-repeat center top;
 	margin-top: -60px;
 	padding-top:0px;
 	text-align:center;
