@@ -7,6 +7,7 @@ teaser: # 400x250 px default teaser image used in image archive grid
 locale: es
 url: //niaj-scio.github.io
 timezone: America/Lima
+encoding: utf-8
 # Jekyll configuration
 
 sass:
