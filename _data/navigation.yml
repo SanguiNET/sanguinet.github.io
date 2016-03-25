@@ -1,6 +1,11 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
+- title: Noticias
+  url: /noticias/
+  excerpt: "Noticias."
+  image:
+  
+  - title: Telegram
+  url: /Telegram/
+  excerpt: "Telegram."
   image:

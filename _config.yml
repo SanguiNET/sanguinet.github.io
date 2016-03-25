@@ -1,11 +1,11 @@
 # Site wide configuration
-
-title:
-description:
-logo: # 120x120 px default image used for Twitter summary card
+# 120x120 px default image used for Twitter summary card
+title: Niaj-scio
+description: Descubriendo el conocimiento
+logo: naijscio_logo.jpg
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: es
-url: niaj-scio.github.io
+url: //niaj-scio.github.io
 
 # Jekyll configuration
 

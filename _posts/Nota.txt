@@ -1,0 +1,18 @@
+Todos los posts están registrados en "_posts", estos deben almacenarse en "archivo.md". 
+Se puede almacenar subcarpetas con "foo". El enlace resulta así:
+
+_posts/foo/2014-06-01-new-post.md a domain.com/foo/new-post/.
+
+
+YAML Front Matter
+
+Font Matter es el código para redactar un artículo.
+El contenido de ese archivo debe estructurase así:
+
+title: Blogging Like a Hacker
+layout: post
+published: false (opcional, para borradores)
+modified: 2014-08-27
+modified: 2014-08-27T11:57:41-04:00 # more verbose, also acceptable
+categories: categorías
+comments: true (opcional)
