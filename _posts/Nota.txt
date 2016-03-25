@@ -16,3 +16,9 @@ modified: 2014-08-27
 modified: 2014-08-27T11:57:41-04:00 # more verbose, also acceptable
 categories: categorías
 comments: true (opcional)
+
+Para la imagen se añade en la parte inferior del texto:
+image:
+  feature: feature-image-filename.jpg
+  credit: Michael Rose #name of the person or site you want to credit
+  creditlink: http://mademistakes.com #url to their site or licensing
