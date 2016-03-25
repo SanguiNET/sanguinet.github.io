@@ -1,0 +1,26 @@
+Todos los posts están registrados en "_posts", estos deben almacenarse en "archivo.md". 
+Se puede almacenar subcarpetas con "foo". El enlace resulta así:
+
+_posts/foo/2014-06-01-new-post.md a domain.com/foo/new-post/.
+
+
+YAML Front Matter
+Sitio web: http://www.yaml.org/start.html
+Información adicional: https://jekyllrb.com/docs/frontmatter/
+
+Font Matter es el código para redactar un artículo.
+El contenido de ese archivo debe estructurase así:
+
+title: Blogging Like a Hacker
+layout: post
+published: false (opcional, para borradores)
+modified: 2014-08-27
+modified: 2014-08-27T11:57:41-04:00 (en caso de detalles)
+categories: categorías
+comments: true (opcional)
+
+Para la imagen se añade en la parte inferior del texto:
+image:
+  feature: feature-image-filename.jpg
+  credit: Michael Rose #name of the person or site you want to credit
+  creditlink: http://mademistakes.com #url to their site or licensing

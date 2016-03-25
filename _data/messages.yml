@@ -15,6 +15,20 @@ locales:
   en_UK:
     <<: *DEFAULT_EN     # use English translation for en_UK
 
+  # Spanish translation
+  # -------------------
+  de: &DEFAULT_ES
+    <<: *DEFAULT_EN     # load English values as default
+    overview: "Panorama"
+    toc: "Índice"
+    written_by: "Escrito por"
+    updated: "Actualizado:"
+    share: "Compartido por"
+  es_ES:
+    <<: *DEFAULT_ES     # use Spanish translation for ES_ES
+  es_LA:
+    <<: *DEFAULT_ES     # use Spanish translation for ES_ES
+	
   # German translation
   # -------------------
   de: &DEFAULT_DE
@@ -29,5 +43,12 @@ locales:
 
   # French translation (TODO)
   # -------------------
+  fr: &DEFAULT_FR
+    <<: *DEFAULT_EN     # load English values as default
+    overview: "Aperçu"
+    toc: "Table des matières"
+    written_by: "Écrit par"
+    updated: "Mis à jour"
+    share: "Partager sur"
   fr_FR:
-    <<: *DEFAULT_EN      # load English values as default
+    <<: *DEFAULT_FR      # use French translation for fr_FR
