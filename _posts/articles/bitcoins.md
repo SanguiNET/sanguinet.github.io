@@ -34,8 +34,8 @@ El Bitcoin si tiene límites para establecer sus normas. Para empezar posee un c
 También se encargan de transportar el dinero al receptor, a cambio de una microcomisión. Para esto, cada uno con sus respectivas  <a href="https://es.wikipedia.org/wiki/Firma_digital" title="Firma digital">firmas digitales</a> hacen un acuerdo. Este acuerdo es archivado a través de un bloque para ser ejecutado por mineros y se hace de <a href="http://bitcoin.org/es/bitcoin-para-entusiastas" rel="nofollow" target="_blank">forma transparente</a>.
 
 Para trabajar, tú único requisito es usar una computadora que sea capaz de ejecutar videojuegos tipo PlayStation 4 (5, 6, etc) para <a href="http://www.fayerwayer.com/2012/11/medida-para-controlar-inflacion-de-bitcoins-duplica-la-dificultad-para-minear-moneda-virtual/" rel="nofollow" target="_blank">tener una jugosa recompensa</a> que reduce con el tiempo. Asegúrate ver su potencia medida en hashes por segundo, a mayor escala más rápido su proceso.
-<h4>
-Como conseguirlo (por el momento)</h4>
+
+####Como conseguirlo (por el momento)
 
 http://www.youtube-nocookie.com/embed/y4ZkuymS_N4
 
@@ -49,11 +49,9 @@ Hay mucha información sobre la moneda, aunque es cuestión que lo averigües po
 
 ####Fuentes
 
-<ul>
-<li><a href="http://es.scribd.com/doc/52791582/Trabajo-sobre-Bitcoin" rel="nofollow" target="_blank">Trabajo sobre Bitcoin</a></li>
-<li><a href="http://blockchain.info/es/stats" rel="nofollow" target="_blank">Estadísticas de BlockChain</a>&nbsp;</li>
-<li><a href="http://techcrunch.com/2013/04/13/beyond-the-bitcoin-bubble/" rel="nofollow" target="_blank">Techcrunch</a>&nbsp; </li>
-<li><a href="http://www.mail-archive.com/cryptography@metzdowd.com/msg10142.html" rel="nofollow" target="_blank">Documento de evidencia</a>&nbsp;</li>
-<li><a href="http://www.pcworldenespanol.com/201304118114/noticias/7-cosas-que-debe-saber-acerca-de-bitcoin.html" rel="nofollow" target="_blank">PC World en español</a>&nbsp;</li>
-<li><a href="http://www.fayerwayer.com/2013/03/en-que-consiste-ese-famoso-bitcoin/" rel="nofollow" target="_blank">Fayerwayer</a></li>
-</ul>
+*<a href="http://es.scribd.com/doc/52791582/Trabajo-sobre-Bitcoin" rel="nofollow" target="_blank">Trabajo sobre Bitcoin</a>
+*<a href="http://blockchain.info/es/stats" rel="nofollow" target="_blank">Estadísticas de BlockChain</a>
+*<a href="http://techcrunch.com/2013/04/13/beyond-the-bitcoin-bubble/" rel="nofollow" target="_blank">Techcrunch</a>
+*<a href="http://www.mail-archive.com/cryptography@metzdowd.com/msg10142.html" rel="nofollow" target="_blank">Documento de evidencia</a>
+*<a href="http://www.pcworldenespanol.com/201304118114/noticias/7-cosas-que-debe-saber-acerca-de-bitcoin.html" rel="nofollow" target="_blank">PC World en español</a>
+*<a href="http://www.fayerwayer.com/2013/03/en-que-consiste-ese-famoso-bitcoin/" rel="nofollow" target="_blank">Fayerwayer</a>
