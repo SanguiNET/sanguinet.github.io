@@ -8,23 +8,23 @@ image:
 <div class="tiles">
 
 <div class="tile">
-  <h2 class="post-title">Built for Jekyll 3</h2>
-  <p class="post-excerpt">Takes advantage of native Sass support and data files to make customizing your site easier.</p>
+  <h2 class="post-title">Ayuda sin precedentes</h2>
+  <p class="post-excerpt">Niaj-scio es un proyecto para ayudar a los usuarios de Telegram para aprovechar todo su potencial en cualquier aspecto.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Content First</h2>
-  <p class="post-excerpt">Designed to put the focus on you and your writing. Headers, navigation, sidebars, and footers have been purposely deemphasized.</p>
+  <h2 class="post-title">Mensajería completa</h2>
+  <p class="post-excerpt">El enfoque promueve en mejorar herramientas de tendencia mundial para fomentar servicios más completos e investigar esta plataforma.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Customizable</h2>
-  <p class="post-excerpt">Packed with layouts and modules. Include Disqus comments, social sharing buttons, and table of contents on one or all pages.</p>
+  <h2 class="post-title">Personalizada</h2>
+  <p class="post-excerpt">Proveemos documentación, distribuir utilidades y compartir experiencias.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Extensible</h2>
-  <p class="post-excerpt">Compatible with popular libraries like <a href="http://bourbon.io">Bourbon</a>, <a href="http://neat.bourbon.io/">Neat</a>, and <a href="http://github.com/octopress/octopress">Octopress</a> to help build and deploy your site with ease.</p>
+  <h2 class="post-title">Expandible</h2>
+  <p class="post-excerpt">El proyecto es experimental, puedes dar tu opinión próximamente.</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->

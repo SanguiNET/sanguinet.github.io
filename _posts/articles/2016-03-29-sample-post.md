@@ -1,14 +1,14 @@
 ---
 layout: article
-title: "Sample Post Style Guide"
+title: "Hola mundo"
 categories: articles
-modified: 2014-08-27T11:57:41-04:00
-tags: [sample]
+modified: 2016-03-29T12:06:11-05:30
+tags: [inicio]
 comments: true
 ads: true
 ---
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+Hola a todos a este proyecto. Aquí está la muestra para redactar un artículo escrito manualmente.
 
 {% include toc.html %}
 

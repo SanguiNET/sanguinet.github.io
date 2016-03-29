@@ -19,15 +19,10 @@ locales:
   # -------------------
   de: &DEFAULT_DE
     <<: *DEFAULT_EN     # load English values as default
-    overview: "&Uuml;bersicht"
-    toc: "Inhalt"
-    written_by: "Verfasst von"
-    updated: "Zuletzt aktualisiert:"
-    share: ""
+    overview: "Vistazo"
+    toc: "Índice"
+    written_by: "Escrito por"
+    updated: "Actualizado:"
+    share: "Compartir:"
   de_DE:
-    <<: *DEFAULT_DE     # use German translation for de_DE
-
-  # French translation (TODO)
-  # -------------------
-  fr_FR:
-    <<: *DEFAULT_EN      # load English values as default
+    <<: *DEFAULT_DE     # use German translation for es_ES
