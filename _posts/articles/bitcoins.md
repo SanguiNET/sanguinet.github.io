@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: archive
 title: "Sobre los bitcoins y su independencia como móneda global en la era digital"
 categories: articles
 modified: 2016-03-29T12:06:11-05:30
