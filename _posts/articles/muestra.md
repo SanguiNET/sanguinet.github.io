@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: article
 title: "Hola mundo"
 categories: articles
 modified: 2016-03-29T12:06:11-05:30

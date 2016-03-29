@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: article
 title: "Sobre los bitcoins y su independencia como móneda global en la era digital"
 categories: articles
 modified: 2016-03-29T12:06:11-05:30
@@ -8,29 +8,26 @@ comments: false
 ads: true
 ---
 
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://4.bp.blogspot.com/-BSEEduzfP2Q/UBZ5BenummI/AAAAAAAAAfE/yhbhfPV2j1I/s1600/RosadelosVientosDibujoenBlancoyNegro.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://4.bp.blogspot.com/-BSEEduzfP2Q/UBZ5BenummI/AAAAAAAAAfE/yhbhfPV2j1I/s1600/RosadelosVientosDibujoenBlancoyNegro.png" /></a></div>
 Gracias a los avances de la tecnología, hay que considerar su importancia en diversas ramas actuales. Muchas de ellas hizo simplificar al mundo como pensamos, comunicarnos, potabilizarnos. Aunque es fácil usarlo, nadie se atrevió en un principio que llevaría los hombres al espacio. Desde un comienzo se pensamos con temor, en las guerras las mejores técnicas era prohibidas (aviones de caza antes de los comerciales, barcos antes de los cruceros, telégrafo antes del teléfono). Hay muchas cosas más, y uno de los más relevantes está en la moneda: si el mundo antiguo<a href="http://www.mayas.uady.mx/articulos/cotidiano.html" rel="nofollow" target="_blank"> comercializaba con sal</a>, en el mundo moderno, se comercializa con "monedas digitales".
 
 El bitcoin es uno de sus casos, quiere remontar al pasado con la sal, solo que esa "sal" es un montículo compuesto de códigos y letras de la era virtual. Es una versión 2.0: Cambia el entorno donde se transporta en un grupo de computadores entrelazados en sí; manteniendo la descentralización, minería, y propiedad. El saco es nada menos que una billetera, no es una archivo ".saco" si no uno llamado ".dat". Claro, que esa sal sólo puede producirse a través de saleros, digo mineros, hasta que todo la "sal" existente en el entorno deje ser cruda y sea comercializada.
 
 Esa dicha moneda, no es una droga y su finalidad es vencer varios puntos flojos que atraviesa la realidad. África la perjudicada, EUA la millonaria, y la frecuente delincuencia en los países. De acuerdo al portal en español, elbitcoin.org, <a href="http://elbitcoin.org/tag/noticias-que-fortalecen-a-bitcoin/" rel="nofollow" target="_blank">alberga sus razones</a>. Si eres de lo que te ríes, hay muchos economistas <a href="http://techcrunch.com/2013/04/24/austan_goolsbee-on-bitcoins-usefulness-hahahaha-rotfl/" rel="nofollow" target="_blank">estar de acuerdo</a>.
 
-<div class="video-container">
-<iframe allowfullscreen="" frameborder="0" height="360" src="http://www.youtube-nocookie.com/embed/VNStlszH2BE" width="640"></iframe></div>
+http://www.youtube-nocookie.com/embed/VNStlszH2BE
 
 Sus orígenes no fueron esperanzadores. Su creador no se conoce, era aprovechado con fines negativos, sólo se tenía en cuenta la <a href="http://tecnologia.elpais.com/tecnologia/2013/04/22/actualidad/1366616126_121042.html" rel="nofollow" target="_blank">criptografía para proveer anonimato</a>. Hay que reconocerlo, según VICE es una manera <a href="http://www.vice.com/es_mx/read/bitcoin-sera-el-dinero-del-futuro-o-el-futuro-de-la-venta-de-drogas" rel="nofollow" target="_blank">más o menos peligrosa</a>, si tiene sentido común al usarlo. Su método consiste en un híbrido del P2P (semilla por semilla, para transmitir datos) y el BitTorrent (aunque se graba cualquier cosa, se puede hacerlo para ver un registro de transacciones). Se pensaba en ser una <a href="http://juanramonrallo.com/2013/04/bitcoin-no-es-una-burbuja/" rel="nofollow" target="_blank">burbuja financiera</a>, <a href="http://www.liberalspain.com/?p=1911" rel="nofollow" target="_blank">pero no es así</a>.
 
 
 Técnicamente tiene un secreto que hace elemental:&nbsp; Es software libre, bastante resistente a todo pese a la excesiva <a href="http://es.tldp.org/Informes/informe-seguridad-SL/informe-seguridad-SL.pdf" rel="nofollow" target="_blank">libertad para distribuir y editar</a> y fortificar su producción entre su comunidad (<a href="http://www.muylinux.com/2011/06/11/la-intrinseca-seguridad-del-software-libre/" rel="nofollow" target="_blank">cero estafa</a>). En un futuro este software tendrá una gran consideración para que sea reconocido como un método de confianza (<a href="http://www.businessinsider.com/is-bitcoin-legal-2013-4" rel="nofollow" target="_blank">no un lavado de activos</a>). 
-<h4>
-La moneda</h4>
+
+####La moneda
+
 Para los curiosos, el Bitcoin es la unidad como si fuera el dólar o el euro. Una unidad conforma el equivalente a 1000 microbitcoin (0.1 céntimos) y cada microunidad equivale a 1000 satochis&nbsp; (la mínima existente para usarlo en un futuro). Actualmente el Bitcoin equivale entre 130 a 170 dólares (abril de 2013). Existe como máximo una distribución de 21 millones de unidades enteros, donde sólo se ha producido la mitad en neto.
 
 Para saber el estado de la "bolsa", el sitio <a href="http://bitcoinity.org/markets" target="_blank">Bitcoinity</a> alberga información en tiempo real sobre la moneda.&nbsp; Si el euro, moneda de Europa, <a href="http://actualidad.rt.com/economia/view/90076-bitcoin-fracaso-euro" rel="nofollow" target="_blank">no logra establecerse</a> por la crisis, es el momento de comprar antes que sea tarde. Como dato adicional, los hermanos Winklevoss que perdieron en un juicio contra Zuck de Facebook por su autoría tienen <a href="http://www.reporteindigo.com/piensa/tecnologia/falta-de-facebook-bitcoin" rel="nofollow" target="_blank">más de 10 millones de dólares recaudados en bitcoins</a>.
 
-<h4>
-Los mineros y sus límites</h4>
+####Los mineros y sus límites
 
 El Bitcoin si tiene límites para establecer sus normas. Para empezar posee un conjunto de operaciones a través de computadoras conectadas entre sí, llamadas mineros. Cada minero excava la sal y lo procesa,  usando las propiedades de la CPU y la GPU. Sencillamente, hace cálculos matemáticos muy complicados (cómo los números primos <a href="https://es.wikinews.org/wiki/Nuevo_n%C3%BAmero_primo_supera_la_barrera_de_10_millones_de_d%C3%ADgitos" rel="nofollow" target="_blank">según tengo entendido</a>) y después formar sus "pepitas de oro".
 
@@ -40,8 +37,7 @@ Para trabajar, tú único requisito es usar una computadora que sea capaz de eje
 <h4>
 Como conseguirlo (por el momento)</h4>
 
-<div class="video-container">
-<iframe allowfullscreen="" frameborder="0" height="360" src="http://www.youtube-nocookie.com/embed/y4ZkuymS_N4" width="640"></iframe> </div>
+http://www.youtube-nocookie.com/embed/y4ZkuymS_N4
 
 Para empezar deberías conseguir una billetera que contienen las transacciones y el dinero. El más sencillo es registrar vía <a href="http://blockchain.info/wallet" rel="nofollow" target="_blank">blockchain.info, </a>creando tu propio monedero. No estoy seguro que sea el de "clase profesional", pero es lo suficientemente seguro para considerarlo. Para realizar transacciones en microempresas, puedes usar <a href="https://bitpay.com/" rel="nofollow" target="_blank">BitPay</a> como alternativa. El resto, cuestión de esperar.
 
@@ -50,8 +46,9 @@ La otro opción, es usarlo en un programa. <a href="http://bitcoin.org/es/bitcoi
 Recuerda que hay dos cosas: La matrícula pública con forma a 1LtU9rMsQ41rCqsJAvMtw89TA5XT2dW7f9 es el código, como si fuera una cuenta bancaria, y puedes utilizarlo para que otros envíen en tu cuenta. Tu billetera, en cambio, es privada y posee un archivo con sufijo ".dat"; por lo que una vez creada, es indispensable respaldarla y cuidarla.
 
 Hay mucha información sobre la moneda, aunque es cuestión que lo averigües por tu cuenta. Hay unos enlaces que explica cómo se emplea y su masificación en el mundo real.
-<h4>
-Fuentes </h4>
+
+####Fuentes
+
 <ul>
 <li><a href="http://es.scribd.com/doc/52791582/Trabajo-sobre-Bitcoin" rel="nofollow" target="_blank">Trabajo sobre Bitcoin</a></li>
 <li><a href="http://blockchain.info/es/stats" rel="nofollow" target="_blank">Estadísticas de BlockChain</a>&nbsp;</li>
