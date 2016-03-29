@@ -1,21 +1,21 @@
 # Site navigation links
 
-- title: Getting Started
-  url: /getting-started/
-  excerpt: "Everything you need to know to get started with Skinny Bones and Jekyll."
+- title: Herramientas
+  url: /herramientas/
+  excerpt: "Todo lo que necesitas conocer acerca de Telegram."
   image: 400x250.gif
 
-- title: Sample Articles
+- title: Artículos
   url: /articles/
-  excerpt: "Examples of long form posts."
+  excerpt: "Temas para debatir."
   image: 400x250.gif
 
 - title: Media
   url: /media/
-  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
+  excerpt: "Archivos multimedia para mejor experiencia."
   image: 400x250.gif
 
 - title: About
   url: /about/
-  excerpt: "All about Skinny Bones for Jekyll."
+  excerpt: "Sobre este proyecto."
   image: 400x250.gif
