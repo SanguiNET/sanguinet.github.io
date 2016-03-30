@@ -1,9 +1,9 @@
 # Site wide configuration
 
 title: Niaj-scio
-description: "Descubriendo un nuevo compartir de mensajería"
-logo: 120x120.gif
-teaser: 400x250.gif
+description: "Descubriendo un nuevo aprendizaje en la mensajería"
+logo: 120x120.png
+teaser: 400x250.png
 locale: es_ES
 url: //niaj-scio.github.io
 
@@ -41,7 +41,7 @@ owner:
   web: 
   email: niaj-scio@outlook.com
   twitter: niaj-scio
-  bio: "Proyecto para mejorar la mensajería Telegram abriendo posibilidades en otros rumbos."
+  bio: "Sitio web para aprender y mejorar la mensajería Telegram y otras posibilidades en rumbos."
   avatar: bio-photo.jpg # 160x160 px image for author byline
   google:
     plus: 
