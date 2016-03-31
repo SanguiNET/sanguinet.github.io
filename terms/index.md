@@ -1,4 +1,4 @@
----
+﻿---
 layout: article
 title: "Términos y condiciones"
 modified: 2016-03-31T11:56:00-05:30
@@ -11,11 +11,11 @@ share: false
 toc: true
 ---
 
-El contenido es mostrado sólo con propósitos informativos. La información y multimedia mostrado en el sitio no está ligado directamente con empresas u organizaciones de cualquier tipo. Sí aceptas los términos podrás distrutar este blog sin problemas y puedes aportar recomendaciones en la página de contacto. ¡Gracias por tu compresión!
+El contenido es mostrado sólo con propósitos informativos. La información y multimedia mostrado en el sitio no está ligado directamente con empresas u organizaciones de cualquier tipo. El creador de este sitio es Diego Sanguinetti y es el creador y administrador del sitio web Niaj-scio.github.io. Sí aceptas los términos podrás distrutar este blog sin problemas y puedes aportar recomendaciones en la página de contacto. ¡Gracias por tu compresión!
 
 {% include toc.html %}
 
-## Privacy Policy
+## Política de privacidad
 
 La privacidad de los visitantes es muy importante. Esta política de privacidad describe los tipos de información personal que se reciba y recogidos y cómo se utiliza.
 
@@ -57,33 +57,34 @@ Google Adsense, a third party affiliate marketing network, uses cookies to help 
 
 Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
 
-## Disclosure Policy
+## Política de anuncios publicitarios
+Este sitio usa programas de afiliación. Si hace clic en un enlace de afiliado o banner y compra el producto, estas coperando con la colaboración del sitio web para el desarrollo de proyectos futuros por su creador.
 
-I make money on this website through affiliate programs. If you click an affiliate link or ad banner and buy the product, you help support this website because I'll get a percentage of that sale.
+Actualmente el creador en un afiliado de Amazon y Google Adsense.
 
-Currently I'm an affiliate for Amazon and Google Adsense.
+Lo que esto significa para tu persona en palabras del creador y administrador Diego Sanguinetti.
 
-What this means for you:
+*No hago y no voy a recomendar un producto sólo porque soy un afiliado.
+*Me convertí en un afiliado para ganar algo de los ingresos a los gastos de funcionamiento y mantenimiento de este sitio web. Como administrador tengo un control directo sobre los anuncios como renumeración sin obligar a los lectores pagar por el sitio ("una propina").*No recomiendo productos que por el simple hecho de hacer dinero ni promueve actividades ilegales.
+*No gano dinero por opiniones ajenas al sitio web (de noticias o foros).
+*Respeto y valoro mis lectores para mejorar la mecánica de este sitio.
 
-* I do not and will not recommend a product just because I'm an affiliate.
-* I became an affiliate to earn some revenue towards the costs of running and maintaining this website. Where I have direct control over which ads are served on this website I offer only products that are directly related to the topic of this website and products that a reader/subscriber would have a genuine interest in or need of.
-* I do not recommend products just for the sake of making money.
-* I recommend products because I think they are valuable to my readers.
-* I do not let the compensation I receive influence the content, topics, posts, or opinions expressed on this website.
-* I respect and value my readers too much to write anything other than my own genuine and objective opinions and advice.
-
-Just like this website, my Disclosure Policy is a work in progress. As the revenue streams evolve, so will this page.
+Al igual que este sitio web, mi Política de publicidad es un trabajo en progreso. A medida que los flujos de ingresos, la comunidad y el objectivo evolucione, también lo hará esta página.
 
 ## Sobre el sitio
+
 ### Sistema de revisión del sitio
-La organización no ha revisado, ni puede revisar, todo el material, incluido el software informático, publicado en el sitio web; no puede, por tanto, ser responsable del contenido, el uso o los efectos de dicho material. Al gestionar el sitio web, el creador no declara ni insinúa que dé su respaldo al material publicado o que crea que dicho material es adecuado, útil o no perjudicial. Será responsabilidad tuya adoptar las precauciones necesarias para protegerte a ti mismo y a los sistemas de tu ordenador contra virus, gusanos, troyanos u otro contenido perjudicial o dañino. El sitio web puede alojar contenido ofensivo, indecente o, de otro modo, objetable, así como contenido que incluya imprecisiones técnicas, errores tipográficos u otros fallos. También es posible que el sitio web contenga material que infrinja los derechos de privacidad o publicidad, o bien que incumpla los derechos de propiedad intelectual u otros derechos de propiedad de terceros; la descarga, copia o uso de dicho material puede estar asimismo sujetos a términos y condiciones adicionales, explícitos o no. El creador rechaza cualquier responsabilidad por los perjuicios resultantes del uso que hagan los visitantes del sitio web o de las descargas que realicen dichos visitantes del contenido publicado.
 
-### Contenido de los artículos
-El sitio web se ofrece “tal cual”. Por la presente, Automattic, así como sus proveedores y otorgantes de licencia, renuncian a todas las garantías de cualquier tipo, de forma expresa o implícita, incluidas, entre otras, las garantías de aprovechamiento, de idoneidad para un propósito particular y de no contravención. Ni Automattic ni sus proveedores u otorgantes de licencias garantizan que el sitio web esté libre de errores o que el acceso a él sea continuo o ininterrumpido. Si estás realmente leyendo esto, aquí hay una sorpresa. Entiendes que realizas descargas del sitio web, o que de otro modo obtienes contenido o servicios a través de él, por tu propia cuenta y riesgo.
+El sitio web se ofrece “tal cual”. Será responsabilidad tuya adoptar las precauciones necesarias para protegerte a ti mismo y a los sistemas de tu ordenador contra virus, gusanos, troyanos u otro contenido perjudicial o dañino. La organización no ha revisado, ni puede revisar, todo el material, incluido el software informático, publicado en el sitio web; no puede, por tanto, ser responsable del contenido, el uso o los efectos de dicho material. Si estás realmente leyendo esto, aquí hay una sorpresa. Entiendes que realizas descargas del sitio web, o que de otro modo obtienes contenido o servicios a través de él, por tu propia cuenta y riesgo.
+
+Antes de que moderemos a los debates en el sitio, comentarios publicados por los visitantes también pueden añadir a sus argumentos contenido ofensivo, indecente o, de otro modo, objetable, así como contenido que incluya imprecisiones técnicas, errores tipográficos u otros fallos. También es posible que los visitantes añadan material que infrinja los derechos de privacidad o publicidad, o bien que incumpla los derechos de propiedad intelectual u otros derechos de propiedad de terceros; la descarga, copia o uso de dicho material puede estar asimismo sujetos a términos y condiciones adicionales, explícitos o no. El creador rechaza cualquier responsabilidad por los perjuicios resultantes del uso que hagan los visitantes del sitio web o de las descargas que realicen dichos visitantes del contenido publicado.
+
 ###Limitación de responsabilidad
-Limitación de responsabilidad. En ningún caso Automattic o sus proveedores u otorgantes de licencias serán responsables de lo siguiente con respecto al objeto de este acuerdo bajo ningún tipo de contrato, negligencia, responsabilidad estricta u otra teoría legal o equitativa: (i) cualquier daño o perjuicio especial, incidental o derivado; (ii) el coste de la obtención de servicios o productos de sustitución; (iii) la interrupción del uso, o bien la pérdida o corrupción de los datos; o (iv) cualquier cantidad que exceda las tasas que hayas pagado a Automattic de acuerdo con este acuerdo durante el periodo de doce (12) meses anterior a la causa del proceso. Automattic no tendrá ninguna responsabilidad por los fallos o retrasos debidos a cuestiones que excedan su capacidad de control razonable. Lo precedente no se aplicará en la medida en que lo prohíban las leyes pertinentes.
 
-## Derechos de autor y miscelánea
+Limitación de responsabilidad. En ningún caso Niaj-sioo sus proveedores u otorgantes de licencias serán responsables de lo siguiente con respecto al objeto de este acuerdo bajo ningún tipo de contrato, negligencia, responsabilidad estricta u otra teoría legal o equitativa: (i) cualquier daño o perjuicio especial, incidental o derivado; (ii) el coste de la obtención de servicios o productos de sustitución; (iii) la interrupción del uso, o bien la pérdida o corrupción de los datos; o (iv) cualquier cantidad que exceda las tasas que hayas pagado a Automattic de acuerdo con este acuerdo durante el periodo de doce (12) meses anterior a la causa del proceso. Niaj-scio no tendrá ninguna responsabilidad por los fallos o retrasos debidos a cuestiones que excedan su capacidad de control razonable. Lo precedente no se aplicará en la medida en que lo prohíban las leyes pertinentes.
+
+### Derechos de autor y miscelánea
+
 Los artículos y multimedias producidos por este blog están bajo los términos del Creative Commons license, versión 4.0, el cual puede ser localizado aqui: http://creativecommons.org/licenses/by/4.0/
 Este tema y algunos componentes del blog son de licencia libre y de código abierto, distribuidos bajo MIT License. 
 Agradecemos a Auttomatic por copiar [algunas cláusulas](https://es.wordpress.com/tos/) para el sitio. Está bajo Creative Commons Atribución-CompartirIgual 4.0.
