@@ -23,10 +23,10 @@ En primer lugar, en este blog, no compartimos su dirección de correo electróni
 
 ### Registros
 
-Esta página no recopila información de forma nativa. No obstante, el sitio añade librería de terceros.
+Esta página no recopila información de forma nativa. No obstante, el sitio añade componentes de terceros.
 
-Como varias páginas web, las librerías permiten registrar información (log files) para fines estadísticos. Al ser registros nos referimos a las visitas del sitio, el origen de los visitantes y el tráfico web.
-Para los fines publicitarios, se usa una cláusula diferente.
+Como varias páginas web, esos componentes permiten registrar información (log files) para fines estadísticos. Al ser registros nos referimos a las visitas del sitio, el origen de los visitantes y el tráfico web.
+Para los fines publicitarios, se usa una cláusula diferente (revisa la sección siguiente).
 
 El registro comprende:
 
