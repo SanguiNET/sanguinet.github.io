@@ -11,7 +11,7 @@ share: false
 toc: true
 ---
 
-El contenido es mostrado sólo con propósitos informativos. La información y multimedia mostrado en el sitio no está ligado directamente con empresas u organizaciones de cualquier tipo. El creador de este sitio es Diego Sanguinetti y es el creador y administrador del sitio web Niaj-scio.github.io. Sí aceptas los términos podrás distrutar este blog sin problemas y puedes aportar recomendaciones en la página de contacto. ¡Gracias por tu compresión!
+El contenido es mostrado para ayudar los lectores. La información y multimedia mostrado en el sitio no está ligado directamente con empresas u organizaciones de cualquier tipo. El creador de este sitio es Diego Sanguinetti y es el creador y administrador del sitio web Niaj-scio.github.io. Sí aceptas los términos podrás distrutar este blog sin problemas y puedes aportar recomendaciones en la página de contacto. ¡Gracias por tu compresión!
 
 {% include toc.html %}
 
@@ -23,8 +23,12 @@ En primer lugar, en este blog, no compartimos su dirección de correo electróni
 
 ### Registros
 
-Como varias páginas web, este sitio usa registros (log files) para fines estadísticos y/o publicitarios.
-Al ser registros nos referimos a las visitas del sitio, el origen de los visitantes, el uso de servicios de terceros (por ejemplo, para los anuncios publicitarios) y el tráfico web. El registro comprende:
+Esta página no recopila información de forma nativa. No obstante, el sitio añade librería de terceros.
+
+Como varias páginas web, las librerías permiten registrar información (log files) para fines estadísticos. Al ser registros nos referimos a las visitas del sitio, el origen de los visitantes y el tráfico web.
+Para los fines publicitarios, se usa una cláusula diferente.
+
+El registro comprende:
 
 * Internet Protocol addresses (IP)
 * Agente de usuario
@@ -33,7 +37,7 @@ Al ser registros nos referimos a las visitas del sitio, el origen de los visitan
 * Enlaces de referencia
 * Clics
 
-Ninguna de la información está vinculada con la información del visitante (o sea, que "generamos una ID al azar" a partir de tu navegador web).
+Los registros solo almacenan información pública de una ID anónima del visitante (o sea, que generamos una información generada al azr a partir de tu navegador web).
 
 ### Cookies y Web Beacons
 
@@ -58,18 +62,20 @@ Google Adsense, a third party affiliate marketing network, uses cookies to help 
 Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
 
 ## Política de anuncios publicitarios
-Este sitio usa programas de afiliación. Si hace clic en un enlace de afiliado o banner y compra el producto, estas coperando con la colaboración del sitio web para el desarrollo de proyectos futuros por su creador.
 
-Actualmente el creador en un afiliado de Amazon y Google Adsense.
+De forma similar a la política de privacidad, algunos proveedores utiliza servicios de publicidad para mantener este siitio (programas de afiliación). Actualmente el creador está afiliado en los servicios de Amazon y Google Adsense.
+Si haces clic en un enlace de afiliado o banner y compra el producto, estas financiando con el administrador del sitio web para el desarrollo de proyectos futuros por su creador.
 
 Lo que esto significa para tu persona en palabras del creador y administrador Diego Sanguinetti.
 
-*No hago y no voy a recomendar un producto sólo porque soy un afiliado.
-*Me convertí en un afiliado para ganar algo de los ingresos a los gastos de funcionamiento y mantenimiento de este sitio web. Como administrador tengo un control directo sobre los anuncios como renumeración sin obligar a los lectores pagar por el sitio ("una propina").*No recomiendo productos que por el simple hecho de hacer dinero ni promueve actividades ilegales.
+*No recomiendo ni garantizo un producto sólo porque soy un afiliado.
+*Me convertí en un afiliado para ganar algo de los ingresos a los gastos de funcionamiento y mantenimiento de este sitio web.
+*Como administrador uso los anuncios como renumeración ("una propina") en lugar de añadir características de pago o hacer favores a terceros.
+*No recomiendo productos que por el simple hecho de hacer dinero ni promuevo actividades ilegales.
 *No gano dinero por opiniones ajenas al sitio web (de noticias o foros).
 *Respeto y valoro mis lectores para mejorar la mecánica de este sitio.
 
-Al igual que este sitio web, mi Política de publicidad es un trabajo en progreso. A medida que los flujos de ingresos, la comunidad y el objectivo evolucione, también lo hará esta página.
+Al igual que este sitio web, mi Política de publicidad es una cláusula que se renueva con el tiempo. Esto cambia a medida que los flujos de ingresos, la comunidad y el objectivo evolucione.
 
 ## Sobre el sitio
 
