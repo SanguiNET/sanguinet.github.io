@@ -26,7 +26,7 @@ En primer lugar, en este blog, no compartimos su dirección de correo electróni
 Esta página no recopila información de forma nativa. No obstante, el sitio añade componentes de terceros.
 
 Como varias páginas web, esos componentes permiten registrar información (log files) para fines estadísticos. Al ser registros nos referimos a las visitas del sitio, el origen de los visitantes y el tráfico web.
-Para los fines publicitarios, se usa una cláusula diferente (revisa la sección siguiente).
+Para los fines publicitarios, se usa una cláusula diferente.
 
 El registro comprende:
 
@@ -68,12 +68,12 @@ Si haces clic en un enlace de afiliado o banner y compra el producto, estas fina
 
 Lo que esto significa para tu persona en palabras del creador y administrador Diego Sanguinetti.
 
-*No recomiendo ni garantizo un producto sólo porque soy un afiliado.
-*Me convertí en un afiliado para ganar algo de los ingresos a los gastos de funcionamiento y mantenimiento de este sitio web.
-*Como administrador uso los anuncios como renumeración ("una propina") en lugar de añadir características de pago o hacer favores a terceros.
-*No recomiendo productos que por el simple hecho de hacer dinero ni promuevo actividades ilegales.
-*No gano dinero por opiniones ajenas al sitio web (de noticias o foros).
-*Respeto y valoro mis lectores para mejorar la mecánica de este sitio.
+* No recomiendo ni garantizo un producto sólo porque soy un afiliado.
+* Me convertí en un afiliado para ganar algo de los ingresos a los gastos de funcionamiento y mantenimiento de este sitio web.
+* Como administrador uso los anuncios como renumeración ("una propina") en lugar de añadir características de pago o hacer favores a terceros.
+* No recomiendo productos que por el simple hecho de hacer dinero ni promuevo actividades ilegales.
+* No gano dinero por opiniones ajenas al sitio web (de noticias o foros).
+* Respeto y valoro mis lectores para mejorar la mecánica de este sitio.
 
 Al igual que este sitio web, mi Política de publicidad es una cláusula que se renueva con el tiempo. Esto cambia a medida que los flujos de ingresos, la comunidad y el objectivo evolucione.
 
