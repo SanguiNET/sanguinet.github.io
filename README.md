@@ -1,17 +1,26 @@
-# Skinny Bones Jekyll Starter
+# Blog de Niaj-scio
 
-Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
+Es solo un proyecto para impulsar el desarrollo de mensajerías siendo el eje principal a Telegram. Queremos impulsar su uso de la forma más práctica posible.
 
-I'm currently using a variation of it on my personal website [Made Mistakes](http://mademistakes.com) with some modifications. To learn more about how to use the theme and install it check out the [Skinny Bones demo](http://mmistakes.github.io/skinny-bones-jekyll/) (*work in progress*).
+Es una veriación del tema [Skinny Bonnes](https://github.com/Niaj-scio/skinny-bones-jekyll) con variaciones.
 
-![screenshot of Skinny Bones](http://mmistakes.github.io/skinny-bones-jekyll/images/skinny-bones-theme-feature.jpg)
+Por el momento esta página está en idioma español. Más información se añadirá a su momento.
+
+Este blog tiene una [página de términos](http://niaj-scio.github.io/terms/) incluido una cláusula de responsabilida limitada.
 
 ---
 
-## Notable Features
+## Características del blog
 
-* Jekyll 3.x and GitHub Pages compatible.
-* Stylesheet built using Sass.
-* Data files for easier customization of the site navigation/footer and for supporting multiple authors.
-* Optional Disqus comments, table of contents, social sharing links, and Google AdSense ads.
-* And more.
+* Usa Jekyll 3.x y es compatible con GitHub Pages.
+* Al usar un estilo de página dinámica sin base de datos la carga es "instantánea".
+* Estilos de cascada con Sass.
+* Uso de carpetas "articles" y "media" para crear artículos y multimedia.
+** Edición rápida con [YAML y Markdown](http://push.cwcon.org/learn/yaml-and-markdown.html).
+** Categorías, etiquetas y tabla de contenidos (opcional).
+** Soporte de encabezado y pie de página. Tabla de información del autor.
+** Por favor, use la página "2016-03-29-muestra.md" como muestra para el uso de Markdown.
+* Complementos externos: Disqus, , social sharing links, and Google AdSense ads.
+* Y falta más.
+
+![screenshot of Skinny Bones](http://mmistakes.github.io/skinny-bones-jekyll/images/skinny-bones-theme-feature.jpg)
