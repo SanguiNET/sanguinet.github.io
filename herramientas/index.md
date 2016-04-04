@@ -73,35 +73,21 @@ Siendo ''Telephone'' el número telefónico y ''OS Client'' el sistema operativo
 ---
 
 ## Primeros pasos
-### Site Wide Configuration
 
-`_config.yml` is your friend. Open it up and personalize it. Most variables are self explanatory but here's an explanation of each anyways:
+### Abrir un chat, grupo o canal
 
-#### Site Title
+Para abrir una conversación seleccionamos al contacto o un botón para ese fin. De forma similar sucede con grupos o canales.
 
-The title of your site... shocker!
+### Los contactos
 
-Example `title: Skinny Bones`
+La libreta de contactos es sicronizada para comprobar si tus conocidos están disponible en Telegram. 
 
-#### Site Description
+Alias: También es posible conversar a otros usuarios mediante alias, sin necesidad de revelar su propio número.
+Eliminar usuarios: Si deseas borrar a cada contacto y dirigir al menú contextual > Eliminar ([fuente](http://technology.onehowto.com/article/how-to-delete-a-telegram-contact-1472.html)).
 
-A description of your site. Used in page meta.
+### Tipos de envío
 
-Example `description: "A lightweight site starter for Jekyll"`
-
-#### Site Logo
-
-Site logo, used mostly as a default image that appears on Twitter Cards if a large feature image isn't present. If used place a square image around 120 x 120 pixels in `/images/`.
-
-Example `logo: 120x120.gif`
-
-<figure>
-  <img src="{{ site.url }}/images/twitter-card-screenshot.jpg" alt="sample Twitter Card screenshot">
-  <figcaption>Site logo is used for Twitter Cards when a feature image is not defined for the page.</figcaption>
-</figure>
-
-
-[^protocol]: If you decide to use a protocol-relative URL know that it will most likely break sitemap.xml that the Jekyll-Sitemap gem creates. If a valid sitemap matters to you I'd suggest [creating your own sitemap.xml](http://davidensinger.com/2013/03/generating-a-sitemap-in-jekyll-without-a-plugin/) and apply some Liquid logic to prepend links to posts/pages with `https:`.
+En Telegram  se puede envíar imágenes, videos o mensajes de audio. También se puede envíar canciones, ubicaciones geográficas y archivos (como documentos) hasta 1.5 GB. 
 
 ## Mi cuenta de usuario
 
@@ -115,10 +101,10 @@ Mi ID
 ├── Mis conversaciones
 |    ├── Chats normales                 # Conversaciones almacenadas en la nube con la ID.
 |    ├── Chats secretos		            # Conversaciones privadas (almacenadas en el teléfono).
-├── Grupos                              # Tanto los grupos propios como 
+├── Grupos                              # Tanto los grupos propios como los grupos que participas (funciona por separado).
 |    ├── Grupos                         # Conversaciones con almacenamiento local.
 |    ├── Supergrupos                    # Conversaciones almacenadas en la nube pensado en conversaciones públicas.
-├── Canales                             # Las "listas de difusión" que son almacendas en la nube.
+├── Canales                             # Las "listas de difusión" que son almacendas en la nube (funciona por separado).
 ├── Bots                                # Usuarios que sirven de mayordomos para el Internet de las Cosas.
 {% endhighlight %}
 
