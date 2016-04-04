@@ -1,8 +1,8 @@
 ---
 layout: article
-title: "Getting Started with Skinny Bones"
-date: 2014-06-25T13:57:25-04:00
-modified: 2016-01-19
+title: "Herramientas para usar Telegram"
+date: 2016-04-04T12:15:00-05:30
+modified: 2016-04-04
 excerpt:
 tags: []
 image:
@@ -38,9 +38,9 @@ B) Si instalas desde la PC, los pasos se asemejan un poco:
 C) Si deseas por medio de un navegador web:
 1. [Dírigete](https://web.telegram.org/) al portal Telegram Web.
 2. Si usas Firefox, Chrome, Edge o alguno similar haz lo siguiente:
-2.1. Ten a esa página web como acceso directo (puede estar en las opciones de la página).
-2.2. Activa o concede que el sitio web pueda mostrar notificaciones.
-2.3. Si fuera necesario también concede los permisos para tomar fotos o grabar audio (a tu criterio).
+	 1. Ten a esa página web como acceso directo (puede estar en las opciones de la página).
+	 2. Activa o concede que el sitio web pueda mostrar notificaciones.
+	 3. Si fuera necesario también concede los permisos para tomar fotos o grabar audio (a tu criterio).
 3. Incia sesión.
 
 ---
