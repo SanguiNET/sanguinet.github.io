@@ -51,7 +51,7 @@ Para iniciar sesión basta con escoger tu número telefónico (o contratar con t
 
 >En algunos casos, Telegram necesita confirmar tu número telefónico en formato internacional. Asegúrate que tu celular puede recibir mensajes o llamadas con ese número. Contacta a tu proveedor de llamadas si ofrece algún cargo adicional.
 >
->En caso que tengas problemas al recibir mensajes de confirmación contacta al equipo en [esta sección](#Problemas en formación d)
+>En caso que tengas problemas al recibir mensajes de confirmación contacta al equipo en [esta sección](#Problemas en mensajes de confirmación)
 {% highlight text %}
 Telegram Code: 12345
 {% endhighlight %}
@@ -69,6 +69,7 @@ My OS client: ZZZZZ
 {% endhighlight %}
 
 Siendo ''Telephone'' el número telefónico y ''OS Client'' el sistema operativo donde estabas usando (Windows, Android...).
+
 ---
 
 ## Primeros pasos
