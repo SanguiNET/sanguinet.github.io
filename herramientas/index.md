@@ -76,7 +76,7 @@ Siendo ''Telephone'' el número telefónico y ''OS Client'' el sistema operativo
 
 ### Abrir un chat, grupo o canal
 
-Para abrir una conversación seleccionamos al contacto o un botón para ese fin. De forma similar sucede con grupos o canales.
+Para abrir una conversación con tus cercados dirígete en la sección Contactos (varía según sistema oprerativo). En caso que quieras hacer un chat grupal puedes recurrir una conversación hasta 5000 miembros. Los grupos pueden mejorarse para hacerlo públicos y almacenarlos en la nube. Para los que quieren mandar posts a modo de blog puedes usar los canales y compartir a los contactos o mediante enlace.
 
 ### Los contactos
 
@@ -112,8 +112,22 @@ Mi ID
 
 Si quieres aportar sugerencias a la página [envía una consulta](https://github.com/Niaj-scio/niaj-scio.github.io/issues) en GitHub. Los problemas son arreglados sólo para el sitio web.
 
-En caso que quieras dar **sugerencias a Telegram** dirígete a Ayuda > Hacer una pregunta.
+En caso que tengas dudas puedes consultar la **[sección de preguntas frecuentes](https://telegram.org/faq/es)** o hacer una consulta en Ayuda > Hacer una pregunta.
 
+### Canales afines
+Para los que estén informados sobre las características de Telegram, te ofrecemos:
+
+* [Telegram News](https://telegram.me/newschannel), canal de publicación en inglés.
+* [Telegram News](https://telegram.me/tnews_ru), canal ruso de la comunidad en VK.
+* [tlgram.net Noticias](https://telegram.me/tlgramNET), canal en español sobre noticias y análisis.
+* [Chatfuel News](https://telegram.me/chatfuel), canal del administrador de bots de Telegram.
+
+Canales cercanos y/o oficiales:
+
+* [Telegram Challenge](https://telegram.me/durovschallenge), canal del proyecto experimental promovido por Dúrov.
+* [Telegram Desktop](https://telegram.me/desktop), canal del cliente para escritorio.
+* [BotNews](https://telegram.me/BotNews), canal oficial para el desarrollo de bots .
+* [Canal de Telegram](https://telegram.me/telegram), canal principal.
 ---
 
 ## Licencia
