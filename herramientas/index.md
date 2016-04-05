@@ -80,14 +80,20 @@ Para abrir una conversación con tus cercados dirígete en la sección Contactos
 
 ### Los contactos
 
-La libreta de contactos es sicronizada para comprobar si tus conocidos están disponible en Telegram. 
+Los contactos son el medio escencial para comunicarte Telegram.
 
-Alias: También es posible conversar a otros usuarios mediante alias, sin necesidad de revelar su propio número.
-Eliminar usuarios: Si deseas borrar a cada contacto y dirigir al menú contextual > Eliminar ([fuente](http://technology.onehowto.com/article/how-to-delete-a-telegram-contact-1472.html)).
+* Añadir: Para añadir basta agregar a tu libreta de contactos y sicronizarlo.
+* Notificar si el nuevo usuario usa Telegram: Eso se puede desactivar en los ajustes de Android y escritorio.
+* Alias: También es posible conversar a otros usuarios mediante alias, sin necesidad de revelar su propio número.
+* Eliminar usuarios: Si deseas borrar a cada contacto y dirigir al menú contextual > Eliminar ([fuente](http://technology.onehowto.com/article/how-to-delete-a-telegram-contact-1472.html)).
 
 ### Tipos de envío
 
-En Telegram  se puede envíar imágenes, videos o mensajes de audio. También se puede envíar canciones, ubicaciones geográficas y archivos (como documentos) hasta 1.5 GB. 
+En Telegram se puede envíar imágenes, videos o mensajes de audio. También se puede envíar canciones, ubicaciones geográficas y archivos (como documentos) hasta 1.5 GB. 
+
+### Bots integrales
+
+Además, puedes emplear los bots para hacer amenas las conversaciones. Puedes compartir un GIF, un mensaje estilizado, un videoclip, entre otros. Entre los más principales son @bold (usando Markdown), @gif (Giphy), @vid (Youtube), @wiki (Wikipedia), entre otros ([fuente](https://core.telegram.org/bots/inline)).
 
 ## Mi cuenta de usuario
 
