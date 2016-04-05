@@ -134,6 +134,7 @@ Canales cercanos y/o oficiales:
 * [Telegram Desktop](https://telegram.me/desktop), canal del cliente para escritorio.
 * [BotNews](https://telegram.me/BotNews), canal oficial para el desarrollo de bots .
 * [Canal de Telegram](https://telegram.me/telegram), canal principal.
+
 ---
 
 ## Licencia
