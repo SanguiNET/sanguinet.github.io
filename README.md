@@ -11,11 +11,21 @@ Por el momento esta página está en idioma español. Pueden añadir aportes par
 ## Qué contiene el blog
 Los artículos de niaj-scio.github.io están organizados en:
 
-* "Herramientas", página relacionada a Telegram y primeros pasos
-* "Articles" o "artículos", carpeta de artículos sobre Telegram
-* "Media", carpeta de videos y archivos multimedia, éstos deben enlazarse a un portal externo como YouTube o Vimeo
-* "About", sobre el portal web (casi análogo a este Léame)
-* "Terms" o [página de términos](http://niaj-scio.github.io/terms/), incluido una cláusula de responsabilida limitada
+* Las páginas y carpetas
+** "Herramientas", página relacionada a Telegram y primeros pasos
+** "Articles" o "artículos", carpeta de artículos sobre Telegram
+** "Media", carpeta de videos y archivos multimedia, éstos deben enlazarse a un portal externo como YouTube o Vimeo
+** "About", sobre el portal web (casi análogo a este Léame)
+** "Terms" o [página de términos](http://niaj-scio.github.io/terms/), incluido una cláusula de responsabilida limitada
+* Los accesorios de la página
+** "images" para las imágenes del sitio, recomendamos usar la menor cantidad de imágenes posible
+** "_data" carpeta para el encabezado y pie de página, la página completa es generada en código Ruby
+** "_layouts" carpeta donde se ubica home.html para la página principal
+* Archivos preconfigurados
+** "index.md" para la barra lateral, no confuir con home.html de "_layouts"
+** "_templates", carpeta para estilos predeterminados en las páginas del sitio
+** "atom.txt", para el canal RSS
+** "_config", configuración del sitio
 
 ## Características del blog
 
