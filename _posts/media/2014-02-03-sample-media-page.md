@@ -14,5 +14,7 @@ image:
 
 Bienvenidos a los videos de bots en Telegram
 
-[![Bots Telegram](http://img.youtube.com/vi/CpdPN_RpCyA/0.jpg)](https://www.youtube.com/watch?v=CpdPN_RpCyA Bots Telegram")
+[![Bots Telegram 1](http://img.youtube.com/vi/CpdPN_RpCyA/0.jpg)](https://www.youtube.com/watch?v=CpdPN_RpCyA Bots Telegram")
+
+[![Bots Telegram 2](http://img.youtube.com/vi/-NxJco4hKjU/0.jpg)](https://www.youtube.com/watch?v=-NxJco4hKjU Bots Telegram")
 
