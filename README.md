@@ -12,21 +12,23 @@ Por el momento esta página está en idioma español. Pueden añadir aportes par
 Los artículos de niaj-scio.github.io están organizados en:
 
 * Las páginas y carpetas
-** "Herramientas", página relacionada a Telegram y primeros pasos
-** "Articles" o "artículos", carpeta de artículos sobre Telegram
-** "Media", carpeta de videos y archivos multimedia, éstos deben enlazarse a un portal externo como YouTube o Vimeo
-** "About", sobre el portal web (casi análogo a este Léame)
-** "Terms" o [página de términos](http://niaj-scio.github.io/terms/), incluido una cláusula de responsabilida limitada
+	* "Herramientas", página relacionada a Telegram y primeros pasos
+	* "Posts", carpeta de noticias
+		* "Articles" o "artículos", carpeta de artículos sobre Telegram
+		* "Media", carpeta de videos y archivos multimedia, éstos deben enlazarse a un portal externo como YouTube o Vimeo
+	* "About", sobre el portal web (casi análogo a este Léame)
+	* "Terms" o [página de términos](http://niaj-scio.github.io/terms/), incluido una cláusula de responsabilida limitada
 * Los accesorios de la página
-** "images" para las imágenes del sitio, recomendamos usar la menor cantidad de imágenes posible
-** "\_data" carpeta para el encabezado y pie de página, la página completa es generada en código Ruby
-** "\_layouts" carpeta donde se ubica home.html para la página principal
+	* "images" para las imágenes del sitio, recomendamos usar la menor cantidad de imágenes posible
+	* "\_data" carpeta para el encabezado y pie de página, la página completa es generada en código Ruby
+	* "\_layouts" carpeta donde se ubica home.html para la página principal
 * Archivos preconfigurados
-** "index.md" para la barra lateral, no confuir con home.html de "\_layouts"
-** "\_templates", carpeta para estilos predeterminados en las páginas del sitio
-** "atom.txt", para el canal RSS
-** "\_config", configuración del sitio
-
+	* "\_templates", carpeta para estilos predeterminados en las páginas del sitio
+	* "atom.txt", para el canal RSS
+	* "\_config", configuración del sitio
+	* "index.md"
+		*En la raíz se usa como barra lateral, no confuir con home.html de "\_layouts"
+		*En las carpetas como "Articles" es el directorio URL antes de acceder al arículo
 ## Características del blog
 
 ![screenshot of Skinny Bones](http://mmistakes.github.io/skinny-bones-jekyll/images/skinny-bones-theme-feature.jpg)
