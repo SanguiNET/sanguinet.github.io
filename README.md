@@ -20,14 +20,14 @@ Los artículos de niaj-scio.github.io están organizados en:
 	* "Terms" o [página de términos](http://niaj-scio.github.io/terms/), incluido una cláusula de responsabilida limitada
 * Los accesorios de la página
 	* "images" para las imágenes del sitio, recomendamos usar la menor cantidad de imágenes posible
-	* "\_data" carpeta para el encabezado y pie de página, la página completa es generada en código Ruby
-	* "\_layouts" carpeta donde se ubica home.html para la página principal
+	* "\_data" carpeta para el encabezado, pie de página y la barra de navegación
+	* "\_layouts" carpeta donde se preformatea el blog. Allí está home.html para la página principal
 * Archivos preconfigurados
 	* "\_templates", carpeta para estilos predeterminados en las páginas del sitio
 	* "atom.txt", para el canal RSS
 	* "\_config", configuración del sitio
 	* "index.md"
-		*En la raíz se usa como barra lateral, no confuir con home.html de "\_layouts"
+		*En la raíz para la página con texto modificable, no confuir con home.html para el código Ruby
 		*En las carpetas como "Articles" es el directorio URL antes de acceder al arículo
 ## Características del blog
 
