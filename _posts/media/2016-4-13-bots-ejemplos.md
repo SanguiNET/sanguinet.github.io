@@ -7,7 +7,7 @@ ads: true
 share: false
 image:
   feature: bot1280×1130.png
-  teaser: bot876x871.png
+  teaser: bot896x791.png
   credit: Pixabay
   creditlink: https://pixabay.com/es/android-bot-robot-televisi%C3%B3n-feliz-161184/
 ---
