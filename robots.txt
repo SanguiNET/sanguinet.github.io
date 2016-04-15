@@ -2,6 +2,7 @@
 #
 User-agent: *
 Disallow: /
+Disallow: /404.html
 Disallow: /tmp/
 Disallow: /images/
 Disallow: /extra/
