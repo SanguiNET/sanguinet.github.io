@@ -80,3 +80,4 @@ Para crear o modificar un documento:
 Si sientes que hay problemas SEO revisa la documentación debajo:
 * http://veithen.github.io/2014/11/17/jekyll-schema-org-metadata.html
 * http://jekyll.tips/tutorials/seo/
+* http://cesalberca.es/seo-con-jekyll

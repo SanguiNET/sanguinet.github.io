@@ -2,5 +2,6 @@
 #
 User-agent: *
 Disallow: /
+Disallow: /tmp/
 Disallow: /images/
-Disallow: /extra/markdown.html
+Disallow: /extra/

@@ -5,6 +5,7 @@ permalink: /
 image:
   feature: sky-1920x1004.jpg
 tags: [Niaj-scio]
+excerpt: "Sitio web para aprender y mejorar la mensajería Telegram y otras posibilidades en rumbos"
 ---
 
 <div class="tiles">
