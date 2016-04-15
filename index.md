@@ -1,9 +1,10 @@
 ---
 layout: home
+title:  Bienvenidos a Niaj-scio
 permalink: /
 image:
   feature: sky-1920x1004.jpg
-tags: [Telegram]
+tags: [Niaj-scio]
 ---
 
 <div class="tiles">
