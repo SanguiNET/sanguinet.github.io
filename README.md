@@ -29,39 +29,43 @@ Los artículos de niaj-scio.github.io están organizados en:
 	* "index.md"
 		*En la raíz para la página con texto modificable, no confuir con home.html para el código Ruby
 		*En las carpetas como "Articles" es el directorio URL antes de acceder al arículo
+		
 ## Características del blog
 
 ![screenshot of Skinny Bones](http://mmistakes.github.io/skinny-bones-jekyll/images/skinny-bones-theme-feature.jpg)
 
-* Usa Jekyll 3.x y es compatible con GitHub Pages.
-* Al usar un estilo de página dinámica sin base de datos la carga es "instantánea".
-* Estilos de cascada con Sass.
-* Uso de carpetas "articles" y "media" para crear artículos y multimedia.
-	* Edición rápida con [YAML y Markdown](http://push.cwcon.org/learn/yaml-and-markdown.html).
-	* Categorías, etiquetas y tabla de contenidos (opcional).
-	* Soporte de encabezado y pie de página. Tabla de información del autor.
-	* Por favor, use la página "2016-03-29-muestra.md" como muestra para el uso de Markdown.
-* Complementos externos: Disqus, , social sharing links, and Google AdSense ads.
-* Licencia de código abierto (ver "terms")
+* Usa Jekyll 3.x y es compatible con GitHub Pages;
+* Al usar un estilo de página dinámica sin base de datos la carga es "instantánea";
+* Estilos de cascada con Sass;
+* Uso de carpetas "articles" y "media" para crear artículos y multimedia:
+	* Edición rápida con [YAML y Markdown](http://push.cwcon.org/learn/yaml-and-markdown.html);
+	* Categorías, etiquetas y tabla de contenidos (opcional);
+	* Soporte de encabezado y pie de página. Tabla de información del autor;
+	* Por favor, use la página "2016-03-29-muestra.md" como muestra para el uso de Markdown;
+* Complementos externos: Disqus, , social sharing links, and Google AdSense ads;
+* Licencia de código abierto (ver "terms");
+* No requiere usar .htaccess en Github Pages por motivos de seguridad;
 * Y falta más.
 
-## Cómo añadir un artículo para Niaj-scio
+## Cómo mejorar Niaj-scio
 
 Recuerde que Niaj-scio está pensado en Telegram. Si deseas añadir trucos para potenciar Telegram o integrar servicios externos, eres bienvenido.
 
+### Instalar una copia en la PC
 Para iniciar una copia del blog en la PC:
 
 1. Ejecuta Ruby en tu navegador
 	* De la forma clásica
 		1. Instala un web server.
-		2. Alista el lenguaje Ruby on Rails. El programa es desición de cada uno.
+		2. Programa el servidor para ejecutar Ruby on Rails.
 	* De la forma más fácil. En este caso puedes usar [Rubyinstaller](http://rubyinstaller.org/). 
 		1. Revisa la [página de ayuda](https://github.com/oneclick/rubyinstaller/wiki/faq), en inglés.
 		2. Instálalo.
 2. Descomprime una copia del portal y muévelo hacia el servidor web.
 3. Todo está incorporado. No requiere configurar o conectar la base de datos.
-4. Si tienes errores al descomprimir el blog, puedes consultar el sitio web de [Jekyll](https://jekyllrb.com/).
+4. Si no encuentras las "gemas" al ejecutar el blog, puedes consultar el sitio web de [Jekyll](https://jekyllrb.com/). Las gemas están en el archivo "_config.yml".
 
+### Aportar un artículo
 Para crear o modificar un documento:
 
 1. Consulta el archivo markdown.html, escrito por Joe Di Castro, para formatear texto.
@@ -71,3 +75,8 @@ Para crear o modificar un documento:
 		* Crear un artículo llamado "mitítulo.md"
 		* Modificar un artículo .md
 3. ¡Usa un editor de texto y redacta tu artículo!
+
+### SEO
+Si sientes que hay problemas SEO revisa la documentación debajo:
+* http://veithen.github.io/2014/11/17/jekyll-schema-org-metadata.html
+* http://jekyll.tips/tutorials/seo/

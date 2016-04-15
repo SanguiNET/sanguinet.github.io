@@ -3,6 +3,7 @@ layout: home
 permalink: /
 image:
   feature: sky-1920x1004.jpg
+tags: [Telegram]
 ---
 
 <div class="tiles">
