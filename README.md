@@ -55,15 +55,24 @@ Recuerde que Niaj-scio está pensado en Telegram. Si deseas añadir trucos para 
 Para iniciar una copia del blog en la PC:
 
 1. Ejecuta Ruby en tu navegador
-	* De la forma clásica
-		1. Instala un web server.
-		2. Programa el servidor para ejecutar Ruby on Rails.
-	* De la forma más fácil. En este caso puedes usar [Rubyinstaller](http://rubyinstaller.org/). 
+	*Usando [Bitnami](https://bitnami.com/stack/ruby) (recomendado):
+		1. Visita la [página de descargas](https://bitnami.com/stack/ruby/installer)
+		2. Descárgalo e instálalo.
+	* Usando [Rubyinstaller](http://rubyinstaller.org/):
 		1. Revisa la [página de ayuda](https://github.com/oneclick/rubyinstaller/wiki/faq), en inglés.
 		2. Instálalo.
-2. Descomprime una copia del portal y muévelo hacia el servidor web.
-3. Todo está incorporado. No requiere configurar o conectar la base de datos.
-4. Si no encuentras las "gemas" al ejecutar el blog, puedes consultar el sitio web de [Jekyll](https://jekyllrb.com/). Las gemas están en el archivo "_config.yml".
+	* De la forma clásica (es opcional):
+		1. Instala un web server usando XAMPP.
+		2. Programa el servidor para ejecutar Ruby on Rails (el paso es bastante extenso).
+2. Ejecuta el panel de control o la línea de comandos
+	*Para Bitnami
+		1. Ejecuta use_ruby.bat (en el caso de Windows)
+		2. Ejecuta los comandos ([guia rápida](https://github.com/jekyll/jekyll/issues/3191 y en la carpeta extras).
+3. Descomprime una copia del portal y muévelo hacia la carpeta donde está instalado Jekyll.
+4. Comprueba si está listo:
+	*Si todo está incorporado, como en el caso de Bitnami, no necesitas configurar el módulo Apache o conectar la base de datos.
+	*Si no encuentras las "gemas" al ejecutar el blog, puedes consultar el sitio web de [Jekyll](https://jekyllrb.com/).
+	*Revisa la lista de gemas solicitadas en el archivo "_config.yml".
 
 ### Aportar un artículo
 Para crear o modificar un documento:
