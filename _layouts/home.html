@@ -21,6 +21,12 @@
     <meta http-equiv="cleartype" content="on">
 
     <link rel="stylesheet" href="{{ site.url }}/css/main.css">
+	<style type="text/css">
+	page-lead{
+	background-image:url({{ site.url }}/images/{{ page.image.feature }})
+	}
+
+</style>
     <!-- HTML5 Shiv and Media Query Support for IE -->
     <!--[if lt IE 9]>
       <script src="{{ site.url }}/js/vendor/html5shiv.min.js"></script>
@@ -34,7 +40,7 @@
     {% include navigation-sliding.html %}
 
     {% if page.image.feature %}
-    <div class="page-lead" style="background-image:url({{ site.url }}/images/{{ page.image.feature }})">
+    <div class="page-lead">
       <div class="wrap page-lead-content">
         <h1>Bievenidos a Niaj-scio</h1>
         <h2>Tu portal web para conocer mejor y aprovechar a Telegram.</h2>
