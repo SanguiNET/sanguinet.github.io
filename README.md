@@ -55,7 +55,7 @@ Recuerde que Niaj-scio está pensado en Telegram. Si deseas añadir trucos para 
 Para iniciar una copia del blog en la PC:
 
 1. Ejecuta Ruby en tu navegador
-	*Usando [Bitnami](https://bitnami.com/stack/ruby) (recomendado):
+	* Usando [Bitnami](https://bitnami.com/stack/ruby) (recomendado):
 		1. Visita la [página de descargas](https://bitnami.com/stack/ruby/installer)
 		2. Descárgalo e instálalo.
 	* Usando [Rubyinstaller](http://rubyinstaller.org/):
@@ -65,19 +65,19 @@ Para iniciar una copia del blog en la PC:
 		1. Instala un web server usando XAMPP.
 		2. Programa el servidor para ejecutar Ruby on Rails (el paso es bastante extenso).
 2. Ejecuta el panel de control o la línea de comandos
-	*Para Bitnami
+	* Para Bitnami
 		1. Ejecuta use_ruby.bat (en el caso de Windows)
 		2. Ejecuta los comandos ([guia rápida](https://github.com/jekyll/jekyll/issues/3191 y en la carpeta extras).
 		3. Tu carpeta será creada como "my-awesome-site", depende del nombre que hayas asignado.
 3. Descomprime una copia del portal y muévelo hacia la carpeta "my-awesome-site".
-	*Para otros servicios
+	* Para otros servicios
 		1. Comprueba si tienes los permisos root para la línea de comandos.
 		2. Ejecuta los comandos ([guia rápida](https://github.com/jekyll/jekyll/issues/3191 y en la carpeta extras).
 		3. Tu carpeta será creada como "my-awesome-site", depende del nombre que hayas asignado.
 4. Comprueba si está listo:
-	*Si todo está incorporado, como en el caso de Bitnami, no necesitas configurar el módulo Apache o conectar la base de datos.
-	*Si no encuentras las "gemas" al ejecutar el blog, puedes consultar el sitio web de [Jekyll](https://jekyllrb.com/).
-	*Revisa la lista de gemas solicitadas en el archivo "_config.yml".
+	* Si todo está incorporado, como en el caso de Bitnami, no necesitas configurar el módulo Apache o conectar la base de datos.
+	* Si no encuentras las "gemas" al ejecutar el blog, puedes consultar el sitio web de [Jekyll](https://jekyllrb.com/).
+	* Revisa la lista de gemas solicitadas en el archivo "_config.yml".
 
 ### Aportar un artículo
 Para crear o modificar un documento:
