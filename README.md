@@ -18,8 +18,9 @@ Los artículos de niaj-scio.github.io están organizados en:
 	* "Posts", carpeta de noticias
 		* "Articles" o "artículos", carpeta de artículos sobre Telegram
 		* "Media", carpeta de videos y archivos multimedia, éstos deben enlazarse a un portal externo como YouTube o Vimeo
+		* "Directorio", página recopilatoria de cananles y bots (se puede vincular los artículos si es posible)
 	* "About", sobre el portal web (casi análogo a este Léame)
-	* "Terms" o [página de términos](http://niaj-scio.github.io/terms/), incluido una cláusula de responsabilida limitada
+	* "Terms" o [página de términos](http://niaj-scio.github.io/terms/), incluido una cláusula de responsabilida limitada (oculto)
 * Los accesorios de la página
 	* "images" para las imágenes del sitio, recomendamos usar la menor cantidad de imágenes posible
 	* "\_data" carpeta para el encabezado, pie de página y la barra de navegación
@@ -91,7 +92,7 @@ Para crear o modificar un documento:
 		* Crear un artículo llamado "mitítulo.md"
 		* Modificar un artículo .md
 3. ¡Usa un editor de texto y redacta tu artículo!
-
+	* Opcionalmente, usa el editor de texto [Stackedit](https://stackedit.io/editor) para previsualizar en línea
 ### SEO
 Si sientes que hay problemas SEO revisa la documentación debajo:
 * http://veithen.github.io/2014/11/17/jekyll-schema-org-metadata.html
