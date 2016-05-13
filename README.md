@@ -1,6 +1,8 @@
 # Sitio web del proyecto Niaj-scio
 
-Este es el proyecto Niaj-scio. Es algo informativo y etretenido para los que quieren aprender en Telegram. Queremos impulsar el desarrollo la mensajería mencionada de la forma más práctica posible.
+Este es el proyecto Niaj-scio. Es algo informativo y etretenido para los que quieren aprender en Telegram. Hemos creado el portal con el fin de impulsar el desarrollo de la mensajería mencionada.
+
+Su funcionamiento es fácil. La información lo hacemos de la forma más práctica posible. Solo necesitas un editor de texto si quieres mejorar.
 
 Está basado en Jekyll con el tema [Skinny Bonnes](https://github.com/Niaj-scio/skinny-bones-jekyll) con variaciones. Para ver el portal en la PC sin Internet revisa la documentación más abajo.
 
@@ -72,7 +74,7 @@ Para iniciar una copia del blog en la PC:
 3. Descomprime una copia del portal y muévelo hacia la carpeta "my-awesome-site".
 	* Para otros servicios
 		1. Comprueba si tienes los permisos root para la línea de comandos.
-		2. Ejecuta los comandos ([guia rápida](https://github.com/jekyll/jekyll/issues/3191 y en la carpeta extras).
+		2. Ejecuta los comandos ([guia rápida](https://github.com/jekyll/jekyll/issues/3191) e info en la carpeta extras).
 		3. Tu carpeta será creada como "my-awesome-site", depende del nombre que hayas asignado.
 4. Comprueba si está listo:
 	* Si todo está incorporado, como en el caso de Bitnami, no necesitas configurar el módulo Apache o conectar la base de datos.

@@ -9,7 +9,12 @@
   url: /articles/
   excerpt: "Temas para debatir."
   image: manejo.jpg
-
+  
+- title: Directorio
+  url: /directorio/
+  excerpt: "Nuestro recopilatorio de canales y bots."
+  image: manejo.jpg 
+  
 - title: Media
   url: /media/
   excerpt: "Archivos multimedia para mejor experiencia."
