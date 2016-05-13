@@ -38,6 +38,29 @@ Tecnología
 | Pisapapeles         | https://telegram.me/pisapapeles     | Español  |
 | AndrApperos         | https://telegram.me/AndrApp4iu      | Español  |
 
+Videojuegos
+--
+https://telegram.me/fsgamer
+
+Informativos
+========
+
+Noticieros
+--------
+| Nombre              | Enlace                              | Idioma   |
+|---------------------|-------------------------------------|----------|
+| **RT en ruso**          | https://telegram.me/rt_russian  | Ruso     |
+| **El Confidencial**     | https://telegram.me/ecactualidad | Español  |
+| **El Diario**           | https://telegram.me/eldiarioes  | Español  |
+| **Ámbito (Argentina)**  | http://telegram.me/AmbitoBot    | Español  |    
+
+
+Economía
+------------
+| Nombre              | Enlace                              | Idioma   |
+|---------------------|-------------------------------------|----------|
+|No disponible|
+
 Etretenimiento
 ===========
 | Nombre              | Enlace                              | Idioma   |
@@ -47,20 +70,27 @@ Etretenimiento
 | Humor (comunidad)   | https://telegram.me/humoresp        | Español  |
 | Tjournal            | https://telegram.me/tjnews          | Ruso     |
 
-Noticieros
-===========
+Cultura
+--------
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
-| **RT en ruso**          | https://telegram.me/rt_russian  | Ruso     |
-| **El Confidencial**     | https://telegram.me/ecactualidad | Español  |
-| **El Diario**           | https://telegram.me/eldiarioes  | Español  |
-| **Ámbito (Argentina)**  | http://telegram.me/AmbitoBot    | Español  |    
+| Curiosos            | https://telegram.me/curiosos        | Español  |
+| Historia            | https://telegram.me/historiadiaria  | Español  |
+| Meduza              | https://telegram.me/meduzalive      | Ruso     |
 
-Economía
-===========
+Vida social
+------------
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
+| Verne (El País)     | https://telegram.me/verneelpais     | Español  |
 | Chollos             | https://telegram.me/Chollos         | Español  |
+
+Deportes
+---------
+| Nombre              | Enlace                              | Idioma   |
+|---------------------|-------------------------------------|----------|
+| KiaenZona           | https://telegram.me/KiaenZona       | Inglés   |
+
 
 Institucionales
 ============
@@ -73,24 +103,3 @@ Viajes
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
 | *Flysafebot*        | https://telegram.me/Flysafebot      | Inglés   |
-
-Deportes
-==========
-| Nombre              | Enlace                              | Idioma   |
-|---------------------|-------------------------------------|----------|
-| KiaenZona (Básquet) | https://telegram.me/KiaenZona       | Español   |
-
-Cultura
-===========
-| Nombre              | Enlace                              | Idioma   |
-|---------------------|-------------------------------------|----------|
-| Curiosos            | https://telegram.me/curiosos        | Español  |
-| Historia            | https://telegram.me/historiadiaria  | Español  |
-| Meduza              | https://telegram.me/meduzalive      | Ruso     |
-
-Vida social
-===========
-| Nombre              | Enlace                              | Idioma   |
-|---------------------|-------------------------------------|----------|
-| Verne (El País)     | https://telegram.me/verneelpais     | Español  |
-
