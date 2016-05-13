@@ -28,10 +28,10 @@ Advertencia: No nos hacemos responsables del uso de canales o bots hechos por af
 Tecnología
 ===========
 
-| Nombre              |  Enlace                             | Idioma   |
+| Nombre              |  Alias                              | Idioma   |
 |---------------------|-------------------------------------|----------|
-| **Omicrono**        | https://telegram.me/omicronocom     | Español  |
-| Microsiervos        | https://telegram.me/microsiervos    | Español  |
+| **Omicrono**        | [@omicronocom](https://telegram.me/omicronocom)     | Español  |
+| Microsiervos        | [@microsiervos](https://telegram.me/microsiervos)    | Español  |
 | App Elmo            | https://telegram.me/appelmoladg     | Italiano |
 | **MuyLinux**        | https://telegram.me/muylinux        | Español  |
 
@@ -120,21 +120,41 @@ Gobierno
 
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
-| **Prensa Viña**     | https://telegram.me/prensavina         | Español  |
+| **Prensa Viña**     | https://telegram.me/prensavina      | Español  |
+| RAEC Digest         | https://telegram.me/raecdigest      | Inglés   |
+| UNICEF (Español)    | https://telegram.me/unicef_es       | Español   |
 
 Empresas
 -------
+
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
 | Porshe News         | https://telegram.me/porsche_news    | Inglés   |
-| **TIM** (Italia)    | https://telegram.me/timofficial     | Italiano    |
+| **TIM** (Italia)    | https://telegram.me/timofficial     | Italiano |
+
+Pasatiempos
+===========
 
 Viajes
-===========
+--------
 
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
 | *Flysafebot*        | https://telegram.me/Flysafebot      | Inglés   |
+
+Actividades caceras
+----------
+
+| Nombre                            | Enlace                                         | Idioma   |
+|-----------------------------------|------------------------------------------------|----------|
+| Disfruta de la cocina fácil       | https://telegram.me/disfrutalacocinafacil      | Español  |
+
+Clima
+------------
+
+| Nombre                            | Enlace                                         |     Idioma     |
+|-----------------------------------|------------------------------------------------|----------------|
+| Weatherman                        | https://telegram.me/weatherman_bot             | Multilenguaje  |
 
 Telegram
 ============
