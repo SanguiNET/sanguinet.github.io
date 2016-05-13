@@ -61,14 +61,15 @@ Informativos
 Noticieros
 --------
 
-| Nombre              | Enlace                              | Idioma   |
-|---------------------|-------------------------------------|----------|
-| **RT en ruso**          | https://telegram.me/rt_russian  | Ruso     |
-| **El Confidencial**     | https://telegram.me/ecactualidad | Español  |
-| **El Diario**           | https://telegram.me/eldiarioes  | Español  |
-| **Ámbito (Argentina)**  | http://telegram.me/AmbitoBot    | Español  |    
-| **Antena 3 Noticias**   | https://telegram.me/a3noticias  | Español  |
+| Nombre                      | Enlace                              | Idioma   |
+|-----------------------------|-------------------------------------|----------|
+| **RT en ruso**              | https://telegram.me/rt_russian  | Ruso     |
+| **El Confidencial**         | https://telegram.me/ecactualidad | Español  |
+| **El Diario**               | https://telegram.me/eldiarioes  | Español  |
+| **Ámbito (Argentina)**      | http://telegram.me/AmbitoBot    | Español  |    
+| **Antena 3 Noticias**       | https://telegram.me/a3noticias  | Español  |
 | **Huffigton Post (España)** | https://telegram.me/elhuffpost | Español |
+| **El Mundo** (España)       | https://telegram.me/ElMundoActualidad |Español|
 Economía
 ------------
 
@@ -81,7 +82,6 @@ Etretenimiento
 
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
-| Porshe News         | https://telegram.me/porsche_news    | Inglés   |
 | Youtube Best Videos | https://telegram.me/Youtubebestbot  | Inglés   |
 | Humor (comunidad)   | https://telegram.me/humoresp        | Español  |
 | Tjournal            | https://telegram.me/tjnews          | Ruso     |
@@ -114,9 +114,19 @@ Deportes
 Institucionales
 ============
 
+Gobierno
+--------
+
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
 | **Prensa Viña**     | https://telegram.me/prensavina         | Español  |
+
+Empresas
+-------
+| Nombre              | Enlace                              | Idioma   |
+|---------------------|-------------------------------------|----------|
+| Porshe News         | https://telegram.me/porsche_news    | Inglés   |
+| **TIM** (Italia)    | https://telegram.me/timofficial     | Italiano    |
 
 Viajes
 ===========
@@ -124,3 +134,13 @@ Viajes
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
 | *Flysafebot*        | https://telegram.me/Flysafebot      | Inglés   |
+
+Telegram
+============
+
+Desarrollo oficial
+-----
+
+| Nombre              | Enlace                              | Idioma   |
+|---------------------|-------------------------------------|----------|
+| *Bots News *        | https://telegram.me/BotNews         | Inglés   |
