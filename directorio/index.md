@@ -30,39 +30,55 @@ Tecnología
 
 | Nombre              |  Enlace                             | Idioma   |
 |---------------------|-------------------------------------|----------|
-| **Omicrono**            | https://telegram.me/omicronocom     | Español  |
-| **Actualidad iPhone**   | https://telegram.me/actualidadiphone| Español  |
+| **Omicrono**        | https://telegram.me/omicronocom     | Español  |
 | Microsiervos        | https://telegram.me/microsiervos    | Español  |
 | App Elmo            | https://telegram.me/appelmoladg     | Italiano |
-| **MuyLinux**            | https://telegram.me/muylinux        | Español  |
-| Pisapapeles         | https://telegram.me/pisapapeles     | Español  |
-| AndrApperos         | https://telegram.me/AndrApp4iu      | Español  |
+| **MuyLinux**        | https://telegram.me/muylinux        | Español  |
+
+
+Móviles
+-----
+
+| Nombre                 |  Enlace                             | Idioma   |
+|------------------------|-------------------------------------|----------|
+| **Actualidad iPhone**  | https://telegram.me/actualidadiphone| Español  |
+| Pisapapeles            | https://telegram.me/pisapapeles     | Español  |
+| AndrApperos            | https://telegram.me/AndrApp4iu      | Español  |
+| Android5x1             | https://telegram.me/android5x1oficial |Español |
 
 Videojuegos
---
-https://telegram.me/fsgamer
+-----
+
+| Nombre              |  Enlace                             | Idioma   |
+|---------------------|-------------------------------------|----------|
+| **FSGamer**         | https://telegram.me/fsgamer         | Español  |
+|**Games Tribune Magazine** | https://telegram.me/GamesTribune | Español   |
+
 
 Informativos
 ========
 
 Noticieros
 --------
+
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
 | **RT en ruso**          | https://telegram.me/rt_russian  | Ruso     |
 | **El Confidencial**     | https://telegram.me/ecactualidad | Español  |
 | **El Diario**           | https://telegram.me/eldiarioes  | Español  |
 | **Ámbito (Argentina)**  | http://telegram.me/AmbitoBot    | Español  |    
-
-
+| **Antena 3 Noticias**   | https://telegram.me/a3noticias  | Español  |
+| **Huffigton Post (España)** | https://telegram.me/elhuffpost | Español |
 Economía
 ------------
+
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
 |No disponible|
 
 Etretenimiento
 ===========
+
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
 | Porshe News         | https://telegram.me/porsche_news    | Inglés   |
@@ -72,6 +88,7 @@ Etretenimiento
 
 Cultura
 --------
+
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
 | Curiosos            | https://telegram.me/curiosos        | Español  |
@@ -80,6 +97,7 @@ Cultura
 
 Vida social
 ------------
+
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
 | Verne (El País)     | https://telegram.me/verneelpais     | Español  |
@@ -87,19 +105,22 @@ Vida social
 
 Deportes
 ---------
+
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
 | KiaenZona           | https://telegram.me/KiaenZona       | Inglés   |
-
+| Pasión Baket        | https://telegram.me/Pasion_Basket   | Español  |
 
 Institucionales
 ============
+
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
 | **Prensa Viña**     | https://telegram.me/prensavina         | Español  |
 
 Viajes
 ===========
+
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
 | *Flysafebot*        | https://telegram.me/Flysafebot      | Inglés   |
