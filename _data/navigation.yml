@@ -1,7 +1,7 @@
 # Site navigation links
 
-- title: Herramientas
-  url: /herramientas/
+- title: Tutorial
+  url: /tutorial/
   excerpt: "Todo lo que necesitas conocer acerca de Telegram."
   image: manejo.jpg
 

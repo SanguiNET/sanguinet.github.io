@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Herramientas para usar Telegram"
+title: "utoriales para usar Telegram"
 date: 2016-04-04T12:15:00-05:30
 modified: 2016-04-04
 excerpt:
@@ -12,7 +12,9 @@ image:
 share: false
 ---
 
-Estos son los pasos básicos para instalar Telegram. También incluimos un anexo para funciones avanzadas.
+¡Bienvenidos a Niaj-scio! Esperamos ofrecer lo mejor y esmero en tus primeros pasos.
+
+Aquí los pasos para instalar Telegram. Incluimos algunos apuntes para seguir descubriendo.
 
 {% include toc.html %}
 

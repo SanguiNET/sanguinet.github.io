@@ -87,7 +87,7 @@ Para crear o modificar un documento:
 
 1. Consulta el archivo markdown.html, escrito por Joe Di Castro, para formatear texto.
 2. Revisa el contenido del blog
-	* Para "terms" y "herramientas", puedes editar la páginas correspondientes.
+	* Para "terms" y "tutorial", puedes editar la páginas correspondientes.
 	* Para carpetas como "Articles" y "Media" puedes:
 		* Crear un artículo llamado "mitítulo.md"
 		* Modificar un artículo .md

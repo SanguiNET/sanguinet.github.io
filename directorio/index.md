@@ -21,12 +21,12 @@ Este es el directorio de canales y bots de Telegram. Te permite visitar los mejo
 
 Advertencia: No nos hacemos responsables del uso de canales o bots hechos por aficionados. Si tienes dudas, dinos en la discusión de la página.
 
-
-Advertencia: No nos hacemos responsables del uso de canales o bots hechos por aficionados. Si tienes dudas, dinos en la discusión de la página.
+Categorías: [Tecnología](#Tecnologia), [Móviles](#Moviles), [Videojuegos](#Videojuegos), [Informativos](#Informativos), [Economía](#Economia), [Etretenimiento](#Etretenimiento), [Cultura](#Cultura), [Deportes](#Deportes), [Institucionales](#Institucionales), [Gobierno](#Gobierno), [Empresas](#Empresas), [Pasatiempos](#Pasatiempos), [Hogar](#Hogar), Telegram(#Telegram)
 
 
 Tecnología
 ===========
+{#Tecnologia}
 
 | Nombre              |  Alias                              | Idioma   |
 |---------------------|-------------------------------------|----------|
@@ -36,7 +36,7 @@ Tecnología
 | **MuyLinux**        | https://telegram.me/muylinux        | Español  |
 
 
-Móviles
+Móviles{#Moviles}
 -----
 
 | Nombre                 |  Enlace                             | Idioma   |
@@ -48,6 +48,7 @@ Móviles
 
 Videojuegos
 -----
+{#Videojuegos}
 
 | Nombre              |  Enlace                             | Idioma   |
 |---------------------|-------------------------------------|----------|
@@ -57,9 +58,11 @@ Videojuegos
 
 Informativos
 ========
+{#Informativos}
 
 Noticieros
 --------
+{#Noticieros}
 
 | Nombre                      | Enlace                              | Idioma   |
 |-----------------------------|-------------------------------------|----------|
@@ -73,6 +76,7 @@ Noticieros
 
 Economía
 ------------
+{#Economia}
 
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
@@ -80,6 +84,7 @@ Economía
 
 Etretenimiento
 ===========
+{#Etretenimiento}
 
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
@@ -89,6 +94,7 @@ Etretenimiento
 
 Cultura
 --------
+{#Cultura}
 
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
@@ -98,14 +104,16 @@ Cultura
 
 Vida social
 ------------
+{#Vida_social}
 
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
-| Verne (El País)     | https://telegram.me/verneelpais     | Español  |
+| **Verne** (El País) | https://telegram.me/verneelpais     | Español  |
 | Chollos             | https://telegram.me/Chollos         | Español  |
 
 Deportes
 ---------
+{#Deportes}
 
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
@@ -114,18 +122,21 @@ Deportes
 
 Institucionales
 ============
+{#Institucionales}
 
 Gobierno
 --------
+{#Gobierno}
 
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
 | **Prensa Viña**     | https://telegram.me/prensavina      | Español  |
 | RAEC Digest         | https://telegram.me/raecdigest      | Inglés   |
-| UNICEF (Español)    | https://telegram.me/unicef_es       | Español   |
+| **UNICEF** (Español)    | https://telegram.me/unicef_es       | Español   |
 
 Empresas
 -------
+{#Empresas}
 
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
@@ -134,16 +145,19 @@ Empresas
 
 Pasatiempos
 ===========
+{#Pasatiempos}
 
 Viajes
 --------
+{#Viajes}
 
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
 | *Flysafebot*        | https://telegram.me/Flysafebot      | Inglés   |
 
-Actividades caceras
+Hogar
 ----------
+{#Hogar}
 
 | Nombre                            | Enlace                                         | Idioma   |
 |-----------------------------------|------------------------------------------------|----------|
@@ -151,13 +165,23 @@ Actividades caceras
 
 Clima
 ------------
+{#Clima}
 
 | Nombre                            | Enlace                                         |     Idioma     |
 |-----------------------------------|------------------------------------------------|----------------|
 | Weatherman                        | https://telegram.me/weatherman_bot             | Multilenguaje  |
 
+Juegos y redes sociales
+============
+{#Juegos}
+
+| Nombre                            | Enlace                                         |     Idioma     |
+|-----------------------------------|------------------------------------------------|----------------|
+| Pokerbot                          | https://telegram.me/pokerbot                   | Multilenguaje  |
+
 Telegram
 ============
+{#Telegram}
 
 Desarrollo oficial
 -----
