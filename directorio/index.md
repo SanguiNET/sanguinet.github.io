@@ -12,7 +12,7 @@ image:
 share: false
 ---
 
-Este es el directorio de canales y bots de Telegram. Te permite visitar los mejores contenidos como noticias, etretenimiento, entre otros. Para abrir, basta hacer clic en el enlace. Si usas otro dispositivo puedes escribir su alias en el buscador (por ejemplo si es telegram.me/alias debes digitar @alias).
+Este es el directorio de canales y bots de Telegram. Recopilamos los mejores contenidos como noticias, etretenimiento, entre otros. Para abrir, basta hacer clic en el enlace. Si usas otro dispositivo puedes escribir su alias en el buscador (por ejemplo si es telegram.me/alias debes digitar @alias).
 
 > Contenido oficial: Si en la lista mencionamos el nombre en
 > **negritas**, asumimos que es un bot o canal oficial (al menos mencionado en las redes sociales).
@@ -101,24 +101,6 @@ Categorías: [Tecnología](#Tecnologia), [Móviles](#Moviles), [Videojuegos](#Vi
 | KiaenZona           | https://telegram.me/KiaenZona       | Inglés   |
 | Pasión Baket        | https://telegram.me/Pasion_Basket   | Español  |
 
-## Institucionales {#Institucionales}
-
-### Gobierno {#Gobierno}
-
-| Nombre              | Enlace                              | Idioma   |
-|---------------------|-------------------------------------|----------|
-| **Prensa Viña**     | https://telegram.me/prensavina      | Español  |
-| RAEC Digest         | https://telegram.me/raecdigest      | Inglés   |
-| **UNICEF** (Español)    | https://telegram.me/unicef_es       | Español   |
-
-### Empresas {#Empresas}
-
-
-| Nombre              | Enlace                              | Idioma   |
-|---------------------|-------------------------------------|----------|
-| Porshe News         | https://telegram.me/porsche_news    | Inglés   |
-| **TIM** (Italia)    | https://telegram.me/timofficial     | Italiano |
-
 ## Pasatiempos {#Pasatiempos}
 
 ### Viajes {#Viajes}
@@ -139,11 +121,35 @@ Categorías: [Tecnología](#Tecnologia), [Móviles](#Moviles), [Videojuegos](#Vi
 |-----------------------------------|------------------------------------------------|----------------|
 | Weatherman                        | https://telegram.me/weatherman_bot             | Multilenguaje  |
 
+## Publicaciones propias {#Institucionales}
+
+### Gobierno {#Gobierno}
+
+| Nombre              | Enlace                              | Idioma   |
+|---------------------|-------------------------------------|----------|
+| **Prensa Viña**     | https://telegram.me/prensavina      | Español  |
+| RAEC Digest         | https://telegram.me/raecdigest      | Inglés   |
+| **UNICEF** (Español)    | https://telegram.me/unicef_es       | Español   |
+
+### Empresas {#Empresas}
+
+| Nombre              | Enlace                              | Idioma   |
+|---------------------|-------------------------------------|----------|
+| Porshe News         | https://telegram.me/porsche_news    | Inglés   |
+| **TIM** (Italia)    | https://telegram.me/timofficial     | Italiano |
+
+### Blogs personales
+
+| Nombre              | Enlace                              | Idioma   |
+|---------------------|-------------------------------------|----------|
+| Unpublished         | https://telegram.me/myunpublished   | Ruso   |
+
 ## Juegos y redes sociales {#Juegos}
 
 | Nombre                            | Enlace                                         |     Idioma     |
 |-----------------------------------|------------------------------------------------|----------------|
 | Pokerbot                          | https://telegram.me/pokerbot                   | Multilenguaje  |
+| HotOrBot                          | https://telegram.me/hotorbot                   | Inglés  |
 
 ## Telegram {#Telegram}
 
@@ -151,4 +157,6 @@ Categorías: [Tecnología](#Tecnologia), [Móviles](#Moviles), [Videojuegos](#Vi
 
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
-| *Bots News*        | https://telegram.me/BotNews         | Inglés   |
+| *Bots News*         | https://telegram.me/BotNews         | Inglés   |
+| *Telegram News*     | https://telegram.me/telegram        | Inglés   |
+| *Telegram Desktop*     | https://telegram.me/desktop         | Inglés   |

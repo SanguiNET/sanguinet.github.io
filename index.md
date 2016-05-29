@@ -27,7 +27,7 @@ excerpt: "Sitio web para aprender y mejorar la mensajería Telegram y sus rumbos
 
 <div class="tile">
   <h2 class="post-title">Expandible</h2>
-  <p class="post-excerpt">El proyecto es está en crecimiento, puedes dar tu opinión próximamente.</p>
+  <p class="post-excerpt">El proyecto está en crecimiento, puedes dar tu opinión próximamente.</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
