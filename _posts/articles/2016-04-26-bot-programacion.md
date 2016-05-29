@@ -48,9 +48,9 @@ Para usar los bots es indispensable pedir un permiso al **botfather**.
 4. Escribes el nombre del bot y su alias.
 5. Al crera tu bot, tendrás una clave para integrar con tu servidor.
 6. Siguiendo con los comandos, algunos más permiten describir mejor a tu bot:
-	# "/setdescription": para la descripción de bienvenida. Estará debajo de "¿Qué puede hacer este bot?".
-	# "/setabouttext": es un "acerca de", se encuentra en el perfil y puedes añadir un soporte técnico.
-	# "/setuserpic": la foto del bot para identificarlo mejor.
+	* "/setdescription": para la descripción de bienvenida. Estará debajo de "¿Qué puede hacer este bot?".
+	* "/setabouttext": es un "acerca de", se encuentra en el perfil y puedes añadir un soporte técnico.
+	* "/setuserpic": la foto del bot para identificarlo mejor.
 
 ### Usar librerías
 
@@ -62,6 +62,7 @@ Si deseas programar un bot, según el lenguaje de programación a tu gusto, te o
 * [NodeJS de Suppen](https://github.com/Suppen/Telegram-API-wrapper-for-JS)
 * [PHP de Avtandil Kikabidze](https://github.com/akalongman/php-telegram-bot)
 * [Python de yukuku](https://github.com/yukuku/telebot)
+* [Wrapper para Scala](https://github.com/mukel/telegrambot4s)
 
 Nota: Es posible que algunas implementaciones no funcionen bien por cambios en la API de la plataforma. Puedes ver la [lista completa en Reddit](https://www.reddit.com/r/TelegramBots/comments/3bsec7/unofficial_collection_of_api_wrappers/).
 
