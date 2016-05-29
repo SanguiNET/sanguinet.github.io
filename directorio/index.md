@@ -43,7 +43,7 @@ Categorías: [Tecnología](#Tecnologia), [Móviles](#Moviles), [Videojuegos](#Vi
 | AndrApperos            | https://telegram.me/AndrApp4iu      | Español  |
 | Android5x1             | https://telegram.me/android5x1oficial |Español |
 
-### Videojuegos{#Videojuegos}
+### Videojuegos {#Videojuegos}
 
 | Nombre              |  Enlace                             | Idioma   |
 |---------------------|-------------------------------------|----------|
@@ -101,7 +101,7 @@ Categorías: [Tecnología](#Tecnologia), [Móviles](#Moviles), [Videojuegos](#Vi
 | KiaenZona           | https://telegram.me/KiaenZona       | Inglés   |
 | Pasión Baket        | https://telegram.me/Pasion_Basket   | Español  |
 
-## Institucionales{#Institucionales}
+## Institucionales {#Institucionales}
 
 ### Gobierno {#Gobierno}
 
@@ -121,9 +121,7 @@ Categorías: [Tecnología](#Tecnologia), [Móviles](#Moviles), [Videojuegos](#Vi
 
 ## Pasatiempos {#Pasatiempos}
 
-Viajes
---------
-{#Viajes}
+### Viajes {#Viajes}
 
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
@@ -153,4 +151,4 @@ Viajes
 
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
-| *Bots News *        | https://telegram.me/BotNews         | Inglés   |
+| *Bots News*        | https://telegram.me/BotNews         | Inglés   |
