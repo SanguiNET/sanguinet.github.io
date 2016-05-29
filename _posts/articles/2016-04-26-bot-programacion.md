@@ -52,25 +52,205 @@ Para usar los bots es indispensable pedir un permiso al **botfather**.
 	* "/setabouttext": es un "acerca de", se encuentra en el perfil y puedes añadir un soporte técnico.
 	* "/setuserpic": la foto del bot para identificarlo mejor.
 
+### Configuración
+
+Hay varias maneras de configurar un bot al servidor. Eso depende de la capacidad que le darás a tu bot y la base de datos.
+
+* Puedes usar las líneas de comandos. Algunos tienen un archivo preconfigurado para instalar fácilmente.
+* Si no tienes un servidor propio, puedes conseguir desde la [consola de Google Engine](https://console.developers.google.com/project).
+* Usa el tóken (o clave) para conectar con la plataforma y ejecutar en las conversaciones.
+* Existe varios métodos de respuesta en los bots con getUpdates y setWebhook. Se diferencia por el protocolo HTTPS y su mecanismo de autenticación.
+
+### Hola mundo
+
+Para que veas un bot en acción, empieza a crear tu "hola mundo" con sólo usar el comando "/start". Este hola mundo está hecho en un sólo fichero PHP que muestra sólo el mensaje. El código fuente original está en [http://rouge.jneen.net/pastes/ZDJw JNEEN].
+
+{% highlight php %}
+<?php
+
+//Definimos el tocken y la url de Telegram
+define('BOT_TOKEN', '12345678:replace-me-with-real-token');
+define('API_URL', 'https://api.telegram.org/bot'.BOT_TOKEN.'/');
+
+//Hacemos una consulta Webhook
+function apiRequestWebhook($method, $parameters) {
+  if (!is_string($method)) {
+    error_log("Method name must be a string\n");
+    return false;
+  }
+
+  //Añadimos los parámetros
+  if (!$parameters) {
+    $parameters = array();
+  } else if (!is_array($parameters)) {
+    error_log("Parameters must be an array\n");
+    return false;
+  }
+
+  $parameters["method"] = $method;
+
+  header("Content-Type: application/json");
+  echo json_encode($parameters);
+  return true;
+}
+
+function exec_curl_request($handle) {
+  $response = curl_exec($handle);
+
+  if ($response === false) {
+    $errno = curl_errno($handle);
+    $error = curl_error($handle);
+    error_log("Curl returned error $errno: $error\n");
+    curl_close($handle);
+    return false;
+  }
+
+  $http_code = intval(curl_getinfo($handle, CURLINFO_HTTP_CODE));
+  curl_close($handle);
+
+  //Definimos un error 500 para evitar denegación de acceso
+  if ($http_code >= 500) {
+    sleep(10);
+    return false;
+  } else if ($http_code != 200) {
+    $response = json_decode($response, true);
+    error_log("Request has failed with error {$response['error_code']}: {$response['description']}\n");
+    if ($http_code == 401) {
+      throw new Exception('Invalid access token provided');
+    }
+    return false;
+  } else {
+    $response = json_decode($response, true);
+    if (isset($response['description'])) {
+      error_log("Request was successfull: {$response['description']}\n");
+    }
+    $response = $response['result'];
+  }
+
+  return $response;
+}
+
+//Consultamos los parámetros
+function apiRequest($method, $parameters) {
+  if (!is_string($method)) {
+    error_log("Method name must be a string\n");
+    return false;
+  }
+
+  if (!$parameters) {
+    $parameters = array();
+  } else if (!is_array($parameters)) {
+    error_log("Parameters must be an array\n");
+    return false;
+  }
+
+  foreach ($parameters as $key => &$val) {
+    // codificando a un parámetro array JSON, por ejemplo reply_markup
+    if (!is_numeric($val) && !is_string($val)) {
+      $val = json_encode($val);
+    }
+  }
+  $url = API_URL.$method.'?'.http_build_query($parameters);
+
+  $handle = curl_init($url);
+  curl_setopt($handle, CURLOPT_RETURNTRANSFER, true);
+  curl_setopt($handle, CURLOPT_CONNECTTIMEOUT, 5);
+  curl_setopt($handle, CURLOPT_TIMEOUT, 60);
+
+  return exec_curl_request($handle);
+}
+
+function apiRequestJson($method, $parameters) {
+  if (!is_string($method)) {
+    error_log("Method name must be a string\n");
+    return false;
+  }
+
+  if (!$parameters) {
+    $parameters = array();
+  } else if (!is_array($parameters)) {
+    error_log("Parameters must be an array\n");
+    return false;
+  }
+
+  $parameters["method"] = $method;
+
+  $handle = curl_init(API_URL);
+  curl_setopt($handle, CURLOPT_RETURNTRANSFER, true);
+  curl_setopt($handle, CURLOPT_CONNECTTIMEOUT, 5);
+  curl_setopt($handle, CURLOPT_TIMEOUT, 60);
+  curl_setopt($handle, CURLOPT_POSTFIELDS, json_encode($parameters));
+  curl_setopt($handle, CURLOPT_HTTPHEADER, array("Content-Type: application/json"));
+
+  return exec_curl_request($handle);
+}
+
+function processMessage($message) {
+  // procesar mensaje de entrada
+  $message_id = $message['message_id'];
+  $chat_id = $message['chat']['id'];
+  if (isset($message['text'])) {
+    // incoming text message
+    $text = $message['text'];
+
+    if (strpos($text, "/start") === 0) {
+      apiRequestJson("sendMessage", array('chat_id' => $chat_id, "text" => 'Hello', 'reply_markup' => array(
+        'keyboard' => array(array('Hello', 'Hi')),
+        'one_time_keyboard' => true,
+        'resize_keyboard' => true)));
+    } else if ($text === "Hello" || $text === "Hi") {
+      apiRequest("sendMessage", array('chat_id' => $chat_id, "text" => 'Nice to meet you'));
+    } else if (strpos($text, "/stop") === 0) {
+      // stop now
+    } else {
+      apiRequestWebhook("sendMessage", array('chat_id' => $chat_id, "reply_to_message_id" => $message_id, "text" => 'Cool'));
+    }
+  } else {
+    apiRequest("sendMessage", array('chat_id' => $chat_id, "text" => 'I understand only text messages'));
+  }
+}
+
+//usando enlaces secretos para que lea sólo el servidor
+define('WEBHOOK_URL', 'https://my-site.example.com/secret-path-for-webhooks/');
+
+if (php_sapi_name() == 'cli') {
+  // if run from console, set or delete webhook
+  apiRequest('setWebhook', array('url' => isset($argv[1]) && $argv[1] == 'delete' ? '' : WEBHOOK_URL));
+  exit;
+}
+
+
+$content = file_get_contents("php://input");
+$update = json_decode($content, true);
+
+if (!$update) {
+  // si recibe un mensaje de error, este no avisa
+  exit;
+}
+
+if (isset($update["message"])) {
+  processMessage($update["message"]);
+}
+{% endhighlight %}
+
 ### Usar librerías
 
-Si deseas programar un bot, según el lenguaje de programación a tu gusto, te ofrecemos una librería de implementación. Para ahorrarte tiempo en instalar y actualizar, los enlaces son de Github.
+Una vez que entiendas el hola mundo, te será familiar el mecanismo del API para Telegram. Pero, si quieres usar un lenguaje de programación a tu gusto, te ofrecemos una librería de implementación. Para ahorrarte tiempo en instalar y actualizar, los enlaces son repositorios de Github.
 
 * [C# de MrRoundRobin](https://github.com/MrRoundRobin/telegram.bot)
 * [C++ del usuario de Reddit FloodCode](https://github.com/reo7sp/tgbot-cpp/issues) 
+* [Java por Zack Pollard](https://github.com/zackpollard/JavaTelegramBot-API)
 * [Go de Syfaro](https://github.com/go-telegram-bot-api/telegram-bot-api)
 * [NodeJS de Suppen](https://github.com/Suppen/Telegram-API-wrapper-for-JS)
 * [PHP de Avtandil Kikabidze](https://github.com/akalongman/php-telegram-bot)
 * [Python de yukuku](https://github.com/yukuku/telebot)
 * [Wrapper para Scala](https://github.com/mukel/telegrambot4s)
+* [Yii Framework](https://github.com/iamraccoon/Go-Offline-Telegram-Bot)
 
 Nota: Es posible que algunas implementaciones no funcionen bien por cambios en la API de la plataforma. Puedes ver la [lista completa en Reddit](https://www.reddit.com/r/TelegramBots/comments/3bsec7/unofficial_collection_of_api_wrappers/).
-
-### Configuración
-
-Hay varias maneras de configurar un bot al servidor. Puedes usar las líneas de comandos. Si no tienes un servidor propio, puedes conseguir desde la [consola de Google Engine](https://console.developers.google.com/project).
 
 ### Fuentes
 
 * [Androcastellano](http://androcastellano.com/telegram-3-0-anade-bots-crea-el-tuyo-con-nuestro-tutorial/)
 * [GenBeta](http://www.genbetadev.com/desarrollo-aplicaciones-moviles/creando-un-bot-con-el-api-de-telegram-i)
+* [Documentación oficial de Bot API](https://core.telegram.org/bots/api)
