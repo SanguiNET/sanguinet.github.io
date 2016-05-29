@@ -68,7 +68,7 @@ Nota: Es posible que algunas implementaciones no funcionen bien por cambios en l
 
 ### Configuración
 
-Hay varias maneras de configurar un bot al servidor. Puedes usar las líneas de comandos. Si no tienen un servidor propio, puedes conseguir desde la [consola de Google Engine](https://console.developers.google.com/project).
+Hay varias maneras de configurar un bot al servidor. Puedes usar las líneas de comandos. Si no tienes un servidor propio, puedes conseguir desde la [consola de Google Engine](https://console.developers.google.com/project).
 
 ### Fuentes
 
