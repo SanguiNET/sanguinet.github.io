@@ -108,6 +108,7 @@ Categorías: [Tecnología](#Tecnologia), [Móviles](#Moviles), [Videojuegos](#Vi
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
 | *Flysafebot*        | https://telegram.me/Flysafebot      | Inglés   |
+| TravelFar           | https://telegram.me/TravelFar       | Ruso e inglés |
 
 ### Hogar {#Hogar}
 
@@ -120,6 +121,13 @@ Categorías: [Tecnología](#Tecnologia), [Móviles](#Moviles), [Videojuegos](#Vi
 | Nombre                            | Enlace                                         |     Idioma     |
 |-----------------------------------|------------------------------------------------|----------------|
 | Weatherman                        | https://telegram.me/weatherman_bot             | Multilenguaje  |
+
+### Arte y diseño
+
+| Nombre                            | Enlace                                         |     Idioma     |
+|-----------------------------------|------------------------------------------------|----------------|
+| Virgin Punch                      | https://telegram.me/virginpunch                | Inglés  |
+| Beautiful Pixel                   | https://telegram.me/beautifulpixel                | Inglés  |
 
 ## Publicaciones propias {#Institucionales}
 
@@ -143,6 +151,7 @@ Categorías: [Tecnología](#Tecnologia), [Móviles](#Moviles), [Videojuegos](#Vi
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
 | Unpublished         | https://telegram.me/myunpublished   | Ruso   |
+| Alferova Yulya      | https://telegram.me/alferovayulya   | Ruso  |
 
 ## Juegos y redes sociales {#Juegos}
 
