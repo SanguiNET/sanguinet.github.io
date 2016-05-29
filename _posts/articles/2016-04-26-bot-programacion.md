@@ -63,7 +63,7 @@ Hay varias maneras de configurar un bot al servidor. Eso depende de la capacidad
 
 ### Hola mundo
 
-Para que veas un bot en acción, empieza a crear tu "hola mundo" con sólo usar el comando "/start". Este hola mundo está hecho en un sólo fichero PHP que muestra sólo el mensaje. El código fuente original está en [http://rouge.jneen.net/pastes/ZDJw JNEEN].
+Para que veas un bot en acción, empieza a crear tu "hola mundo" con sólo usar el comando "/start". Este hola mundo está hecho en un sólo fichero PHP que muestra sólo el mensaje. El código fuente original está en [JNEEN](http://rouge.jneen.net/pastes/ZDJw).
 
 {% highlight php %}
 <?php
@@ -219,7 +219,6 @@ if (php_sapi_name() == 'cli') {
   exit;
 }
 
-
 $content = file_get_contents("php://input");
 $update = json_decode($content, true);
 
@@ -235,7 +234,7 @@ if (isset($update["message"])) {
 
 ### Usar librerías
 
-Una vez que entiendas el hola mundo, te será familiar el mecanismo del API para Telegram. Pero, si quieres usar un lenguaje de programación a tu gusto, te ofrecemos una librería de implementación. Para ahorrarte tiempo en instalar y actualizar, los enlaces son repositorios de Github.
+Una vez que entiendas el hola mundo, te será familiar el mecanismo del API para Telegram. Como dato adicional, si quieres usar un lenguaje de programación a tu gusto, te ofrecemos una librería de implementación. Para instalar basta ir a los repositorios de Github mostrados abajo:
 
 * [C# de MrRoundRobin](https://github.com/MrRoundRobin/telegram.bot)
 * [C++ del usuario de Reddit FloodCode](https://github.com/reo7sp/tgbot-cpp/issues) 
@@ -254,3 +253,4 @@ Nota: Es posible que algunas implementaciones no funcionen bien por cambios en l
 * [Androcastellano](http://androcastellano.com/telegram-3-0-anade-bots-crea-el-tuyo-con-nuestro-tutorial/)
 * [GenBeta](http://www.genbetadev.com/desarrollo-aplicaciones-moviles/creando-un-bot-con-el-api-de-telegram-i)
 * [Documentación oficial de Bot API](https://core.telegram.org/bots/api)
+* [Geekteory](https://geekytheory.com/telegram-programando-un-bot-en-python/)
