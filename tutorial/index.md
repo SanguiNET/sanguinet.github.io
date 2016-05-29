@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "utoriales para usar Telegram"
+title: "Tutoriales para usar Telegram"
 date: 2016-04-04T12:15:00-05:30
 modified: 2016-04-04
 excerpt:
@@ -12,9 +12,9 @@ image:
 share: false
 ---
 
-¡Bienvenidos a Niaj-scio! Esperamos ofrecer lo mejor y esmero en tus primeros pasos.
+¡Bienvenidos a Niaj-scio! Esperamos ofrecer los mejores consejos y trucos en tus primeros pasos.
 
-Aquí los pasos para instalar Telegram. Incluimos algunos apuntes para seguir descubriendo.
+Aquí los pasos para instalar Telegram. Incluimos algunos enlaces para estar enterado en la plataforma.
 
 {% include toc.html %}
 
@@ -70,15 +70,21 @@ My Telephone: +XX YYYYYYYYY
 My OS client: ZZZZZ
 {% endhighlight %}
 
-Siendo ''Telephone'' el número telefónico y ''OS Client'' el sistema operativo donde estabas usando (Windows, Android...).
+Siendo ''Telephone'' el número telefónico y ''OS Client'' el sistema operativo donde estás usando (Windows, Android...).
 
 ---
 
 ## Primeros pasos
 
-### Abrir un chat, grupo o canal
+### Qué conversaciones puedo hacer
 
-Para abrir una conversación con tus cercados dirígete en la sección Contactos (varía según sistema oprerativo). En caso que quieras hacer un chat grupal puedes recurrir una conversación hasta 5000 miembros. Los grupos pueden mejorarse para hacerlo públicos y almacenarlos en la nube. Para los que quieren mandar posts a modo de blog puedes usar los canales y compartir a los contactos o mediante enlace.
+Para abrir una conversación con tus cercados dirígete en la sección Contactos (varía según sistema oprerativo).
+Tienes tres modos:
+* Conversaciones individuales: Tal como conversaras en privado con tus contactos.
+** Los chats secretos lo hacen más restringidas ya que no se almacenan en más dispositivos.
+* Grupos: Para conversaciones de 2 a 5000 miembros. Tienen menciones y administradores.
+** Los supergrupos pueden hacerse públicos y son almacenados en la nube. Estos llevan enlace.
+* Canales: Para mandar publicaciones a modo de blog y la audiencia. También llevan enlace para posts específicos.
 
 ### Los contactos
 
@@ -91,15 +97,17 @@ Los contactos son el medio escencial para comunicarte Telegram.
 
 ### Tipos de envío
 
-En Telegram se puede envíar imágenes, videos o mensajes de audio. También se puede envíar canciones, ubicaciones geográficas y archivos (como documentos) hasta 1.5 GB. 
+En Telegram puedes envíar imágenes, videos o mensajes de audio. También se puede envíar canciones, ubicaciones geográficas y archivos (como documentos) hasta 1.5 GB. Basta encontrarlo desde el menú del adjunto.
 
 ### Bots integrales
 
-Además, puedes emplear los bots para hacer amenas las conversaciones. Puedes compartir un GIF, un mensaje estilizado, un videoclip, entre otros. Entre los más principales son @bold (usando Markdown), @gif (Giphy), @vid (Youtube), @wiki (Wikipedia), entre otros ([fuente](https://core.telegram.org/bots/inline)).
+Además, puedes emplear los bots para hacer más prácticas y creativas en las conversaciones. Puedes compartir un GIF según su ánimo, un mensaje estilizado, un videoclip musical, votaciones, entre otros. 
+
+Puedes incorporar desde el cuadro del texto. Entre los más principales son @bold (usando Markdown), @gif (Giphy), @vid (Youtube), @wiki (Wikipedia), entre otros.
 
 ## Mi cuenta de usuario
 
-A grosso modo, tu cuenta de Telegram se compone de (sin orden relevante):
+Para que tengas control de tus datos, la cuenta de Telegram se compone de una ID y los siguientes datos:
 
 {% highlight bash %}
 Mi ID
@@ -136,6 +144,10 @@ Canales cercanos y/o oficiales:
 * [Telegram Desktop](https://telegram.me/desktop), canal del cliente para escritorio.
 * [BotNews](https://telegram.me/BotNews), canal oficial para el desarrollo de bots .
 * [Canal de Telegram](https://telegram.me/telegram), canal principal.
+
+### Haz tus bots
+
+Si necesitas crear tus propios bots para varios usos, empieza desde ([la documentación oficial](https://core.telegram.org/bots/inline)).
 
 ---
 
