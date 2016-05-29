@@ -21,12 +21,10 @@ Este es el directorio de canales y bots de Telegram. Te permite visitar los mejo
 
 Advertencia: No nos hacemos responsables del uso de canales o bots hechos por aficionados. Si tienes dudas, dinos en la discusión de la página.
 
-Categorías: [Tecnología](#Tecnologia), [Móviles](#Moviles), [Videojuegos](#Videojuegos), [Informativos](#Informativos), [Economía](#Economia), [Etretenimiento](#Etretenimiento), [Cultura](#Cultura), [Deportes](#Deportes), [Institucionales](#Institucionales), [Gobierno](#Gobierno), [Empresas](#Empresas), [Pasatiempos](#Pasatiempos), [Hogar](#Hogar), Telegram(#Telegram)
+Categorías: [Tecnología](#Tecnologia), [Móviles](#Moviles), [Videojuegos](#Videojuegos), [Informativos](#Informativos), [Economía](#Economia), [Etretenimiento](#Etretenimiento), [Cultura](#Cultura), [Deportes](#Deportes), [Institucionales](#Institucionales), [Gobierno](#Gobierno), [Empresas](#Empresas), [Pasatiempos](#Pasatiempos), [Hogar](#Hogar), [Telegram](#Telegram)
 
 
-Tecnología
-===========
-{#Tecnologia}
+## Tecnología {#Tecnologia}
 
 | Nombre              |  Alias                              | Idioma   |
 |---------------------|-------------------------------------|----------|
@@ -36,8 +34,7 @@ Tecnología
 | **MuyLinux**        | https://telegram.me/muylinux        | Español  |
 
 
-Móviles{#Moviles}
------
+### Móviles {#Moviles}
 
 | Nombre                 |  Enlace                             | Idioma   |
 |------------------------|-------------------------------------|----------|
@@ -46,9 +43,7 @@ Móviles{#Moviles}
 | AndrApperos            | https://telegram.me/AndrApp4iu      | Español  |
 | Android5x1             | https://telegram.me/android5x1oficial |Español |
 
-Videojuegos
------
-{#Videojuegos}
+### Videojuegos{#Videojuegos}
 
 | Nombre              |  Enlace                             | Idioma   |
 |---------------------|-------------------------------------|----------|
@@ -56,13 +51,9 @@ Videojuegos
 |**Games Tribune Magazine** | https://telegram.me/GamesTribune | Español   |
 
 
-Informativos
-========
-{#Informativos}
+## Informativos {#Informativos}
 
-Noticieros
---------
-{#Noticieros}
+### Noticieros {#Noticieros}
 
 | Nombre                      | Enlace                              | Idioma   |
 |-----------------------------|-------------------------------------|----------|
@@ -74,17 +65,13 @@ Noticieros
 | **Huffigton Post (España)** | https://telegram.me/elhuffpost | Español |
 | **El Mundo** (España)       | https://telegram.me/ElMundoActualidad |Español|
 
-Economía
-------------
-{#Economia}
+### Economía{#Economia}
 
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
 |No disponible|
 
-Etretenimiento
-===========
-{#Etretenimiento}
+## Etretenimiento {#Etretenimiento}
 
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
@@ -92,9 +79,7 @@ Etretenimiento
 | Humor (comunidad)   | https://telegram.me/humoresp        | Español  |
 | Tjournal            | https://telegram.me/tjnews          | Ruso     |
 
-Cultura
---------
-{#Cultura}
+### Cultura {#Cultura}
 
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
@@ -102,31 +87,23 @@ Cultura
 | Historia            | https://telegram.me/historiadiaria  | Español  |
 | Meduza              | https://telegram.me/meduzalive      | Ruso     |
 
-Vida social
-------------
-{#Vida_social}
+### Vida social {#Vida_social}
 
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
 | **Verne** (El País) | https://telegram.me/verneelpais     | Español  |
 | Chollos             | https://telegram.me/Chollos         | Español  |
 
-Deportes
----------
-{#Deportes}
+### Deportes {#Deportes}
 
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
 | KiaenZona           | https://telegram.me/KiaenZona       | Inglés   |
 | Pasión Baket        | https://telegram.me/Pasion_Basket   | Español  |
 
-Institucionales
-============
-{#Institucionales}
+## Institucionales{#Institucionales}
 
-Gobierno
---------
-{#Gobierno}
+### Gobierno {#Gobierno}
 
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
@@ -134,18 +111,15 @@ Gobierno
 | RAEC Digest         | https://telegram.me/raecdigest      | Inglés   |
 | **UNICEF** (Español)    | https://telegram.me/unicef_es       | Español   |
 
-Empresas
--------
-{#Empresas}
+### Empresas {#Empresas}
+
 
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
 | Porshe News         | https://telegram.me/porsche_news    | Inglés   |
 | **TIM** (Italia)    | https://telegram.me/timofficial     | Italiano |
 
-Pasatiempos
-===========
-{#Pasatiempos}
+## Pasatiempos {#Pasatiempos}
 
 Viajes
 --------
@@ -155,36 +129,27 @@ Viajes
 |---------------------|-------------------------------------|----------|
 | *Flysafebot*        | https://telegram.me/Flysafebot      | Inglés   |
 
-Hogar
-----------
-{#Hogar}
+### Hogar {#Hogar}
 
 | Nombre                            | Enlace                                         | Idioma   |
 |-----------------------------------|------------------------------------------------|----------|
 | Disfruta de la cocina fácil       | https://telegram.me/disfrutalacocinafacil      | Español  |
 
-Clima
-------------
-{#Clima}
+### Clima {#Clima}
 
 | Nombre                            | Enlace                                         |     Idioma     |
 |-----------------------------------|------------------------------------------------|----------------|
 | Weatherman                        | https://telegram.me/weatherman_bot             | Multilenguaje  |
 
-Juegos y redes sociales
-============
-{#Juegos}
+## Juegos y redes sociales {#Juegos}
 
 | Nombre                            | Enlace                                         |     Idioma     |
 |-----------------------------------|------------------------------------------------|----------------|
 | Pokerbot                          | https://telegram.me/pokerbot                   | Multilenguaje  |
 
-Telegram
-============
-{#Telegram}
+## Telegram {#Telegram}
 
-Desarrollo oficial
------
+### Desarrollo oficial
 
 | Nombre              | Enlace                              | Idioma   |
 |---------------------|-------------------------------------|----------|
