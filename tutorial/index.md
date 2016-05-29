@@ -38,6 +38,7 @@ B) Si instalas desde la PC, los pasos se asemejan un poco:
 5. Abre la aplicación e inicia sesión.
 
 C) Si deseas por medio de un navegador web:
+
 1. [Dírigete](https://web.telegram.org/) al portal Telegram Web.
 2. Si usas Firefox, Chrome, Edge o alguno similar haz lo siguiente:
 	 1. Ten a esa página web como acceso directo (puede estar en las opciones de la página).
