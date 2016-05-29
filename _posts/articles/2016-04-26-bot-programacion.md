@@ -248,9 +248,14 @@ Una vez que entiendas el hola mundo, te será familiar el mecanismo del API para
 
 Nota: Es posible que algunas implementaciones no funcionen bien por cambios en la API de la plataforma. Puedes ver la [lista completa en Reddit](https://www.reddit.com/r/TelegramBots/comments/3bsec7/unofficial_collection_of_api_wrappers/).
 
+### Soporte técnico
+
+Por ahora si tienes alguna duda puedes consultar al soporte técnico por [@BotSupport](https://telegram.me/botsupport).
+
 ### Fuentes
 
 * [Androcastellano](http://androcastellano.com/telegram-3-0-anade-bots-crea-el-tuyo-con-nuestro-tutorial/)
 * [GenBeta](http://www.genbetadev.com/desarrollo-aplicaciones-moviles/creando-un-bot-con-el-api-de-telegram-i)
 * [Documentación oficial de Bot API](https://core.telegram.org/bots/api)
+* [Preguntas frecuentes](https://core.telegram.org/bots/faq)
 * [Geekteory](https://geekytheory.com/telegram-programando-un-bot-en-python/)
