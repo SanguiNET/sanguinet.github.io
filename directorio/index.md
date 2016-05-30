@@ -19,7 +19,7 @@ Este es el directorio de canales y bots de Telegram. Recopilamos los mejores con
 > Si en la lista añadimos *cursivas*, significa que no es un bot de noticias,
 > sino una herramienta para consultar eventos o realizar acciones.
 
-Advertencia: No nos hacemos responsables del uso de canales o bots hechos por aficionados. Si tienes dudas, dinos en la discusión de la página.
+Advertencia: No nos hacemos responsables del uso de canales o bots hechos por aficionados. Si quieres recomendar uno, [dinos en el artículo especial](http://niaj-scio.github.io/articles/sugerencias-bots-canales/).
 
 {% include toc.html %}
 
