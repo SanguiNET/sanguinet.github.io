@@ -21,7 +21,7 @@ Este es el directorio de canales y bots de Telegram. Recopilamos los mejores con
 
 Advertencia: No nos hacemos responsables del uso de canales o bots hechos por aficionados. Si tienes dudas, dinos en la discusión de la página.
 
-Categorías: [Tecnología](#Tecnologia), [Móviles](#Moviles), [Videojuegos](#Videojuegos), [Informativos](#Informativos), [Economía](#Economia), [Etretenimiento](#Etretenimiento), [Cultura](#Cultura), [Deportes](#Deportes), [Institucionales](#Institucionales), [Gobierno](#Gobierno), [Empresas](#Empresas), [Pasatiempos](#Pasatiempos), [Hogar](#Hogar), [Telegram](#Telegram)
+{% include toc.html %}
 
 
 ## Tecnología {#Tecnologia}

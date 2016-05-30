@@ -6,7 +6,7 @@ modified: 2016-04-26T12:06:11-05:30
 tags: [inicio]
 comments: true
 ads: true
-draft: true
+share: true
 ---
 
 Un bot es un complemento para enriquecer las conversaciones. Dichas conversaciones reducen el tiempo necesario para realizar consultas vía conversación, administrar grupos, usar botones interactivos, etcétera.
@@ -27,7 +27,9 @@ Recuerda: [Visita el directorio para revisar algunos servicios en acción](http:
 
 * Una cuenta de usuario activa (puedes hacer una aparte)
 * Programar el código desde un servidor
-* Un gestor de datos
+	* Si piensas usar tu propio servidor te recomendamos hacer desde una computadora preparada.
+	* Te sugerimos usar Linux para agilizar con línea de comandos, una tarjeta RAM de mayor capacidad, disco duro de mayor velocidad y una fuente de poder de alta eficiencia.
+* Un gestor de datos SQL o MariaDB. No es necesario usar base de datos cuando quieras iniciar con "hola mundo".
 
 Algunas condiciones:
 
@@ -43,11 +45,11 @@ Algunas condiciones:
 Para usar los bots es indispensable pedir un permiso al **botfather**.
 
 1. Ingresa a Telegram con el alias [@botfather](http://telegram.me/botfather).
-2. Inicia (con el botón Iniciar).
-3. Aquí inicias escribiendo comandos. El primero es "/newbot".
-4. Escribes el nombre del bot y su alias.
-5. Al crera tu bot, tendrás una clave para integrar con tu servidor.
-6. Siguiendo con los comandos, algunos más permiten describir mejor a tu bot:
+2. Inicia (con el botón Iniciar o ejecutando "/start").
+3. Este bot usa comandos lineales. El primero que debes hacer es enviar el comando "/newbot" (sin comillas).
+4. Escribes el nombre del bot y su alias (por defecto, casabot).
+5. Al crear tu bot, tendrás una clave para integrar con tu servidor (lo verás en el siguiente paso).
+6. Para dar estilo a tu bot, prueba con otros comandos:
 	* "/setdescription": para la descripción de bienvenida. Estará debajo de "¿Qué puede hacer este bot?".
 	* "/setabouttext": es un "acerca de", se encuentra en el perfil y puedes añadir un soporte técnico.
 	* "/setuserpic": la foto del bot para identificarlo mejor.
@@ -63,7 +65,8 @@ Hay varias maneras de configurar un bot al servidor. Eso depende de la capacidad
 
 ### Hola mundo
 
-Para que veas un bot en acción, empieza a crear tu "hola mundo" con sólo usar el comando "/start". Este hola mundo está hecho en un sólo fichero PHP que muestra sólo el mensaje. El código fuente original está en [JNEEN](http://rouge.jneen.net/pastes/ZDJw).
+Para que veas un bot en acción, empieza a crear tu "hola mundo". Este bot se realizó en un sólo fichero PHP que muestra sólo el mensaje. El código fuente original está en [JNEEN](http://rouge.jneen.net/pastes/ZDJw).
+Para probar, una vez configurado en tu servidor, basta ir al boton "Inciar" o el comando "/start". 
 
 {% highlight php %}
 <?php
