@@ -28,7 +28,7 @@ excerpt: "Más allá del conocimiento"
 
 <div class="tile">
   <h2 class="post-title">Relájate</h2>
-  <p class="post-excerpt">Nuestra página crece y tu opinión también. <a href="/acercade">Estamos en contacto.</a>.</p>
+  <p class="post-excerpt">Nuestra página crece y tu opinión también. <a href="{{ site.url }}/acercade/"Estamos en contacto.</a>.</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->

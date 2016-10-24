@@ -20,4 +20,4 @@ Iremos ampliando con el tiempo.
 
 ## Tutoriales
 
-* [https://sanguinet.github.io/teledoc/](Tutorial sobre Telegram)
+* <a href="{{ site.url }}/teledoc/"> Teledoc(Tutorial sobre Telegram)</a>

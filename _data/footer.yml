@@ -1,6 +1,6 @@
 # Footer navigation links
 
-- title: Home
+- title: Página principal
   url: /
 
 - title: Proyectos
@@ -9,5 +9,8 @@
 - title: Acerca de
   url: /about/
 
+- title: Ubícanos
+  url: /ubicanos/
+  
 - title: Condiciones
   url: /terms/

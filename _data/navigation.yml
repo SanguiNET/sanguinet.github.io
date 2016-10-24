@@ -10,10 +10,10 @@
   excerpt: "Temas para debatir."
   image: manejo.jpg
   
-- title: Directorio
-  url: /directorio/
-  excerpt: "Nuestro directorio de Sangui.net."
-  image: manejo.jpg 
+- title: Organización
+  url: /organizacion/
+  excerpt: "Lo que hacemos."
+  image: manejo.jpg
   
 - title: Media
   url: /media/
