@@ -12,8 +12,16 @@ share: false
 ads: false
 ---
 
-Este sitio web está bajo desarrollo. Visita frecuentemente para ver más novedades.
+Este sitio web está en pruebas. Visita frecuentemente para ver más novedades.
 
 Por el momento puedes ver los artículos y multimedia este sitio web. La información está simplificada al mínimo posible.
 
-Próximamente ofreceremos página para brindarte ayuda paso a paso.
+##Contáctenos
+
+Por ahora los detalles organización serán revelados en un futuro. Mientras tanto puedes conectarte mediante redes sociales.
+
+*[http://twitter.com/sangui_net](Twitter)
+*[http://pinterest.com/sangui_net](Pinterest)
+*[http://github.com/sanguinet](Twitter)
+* #sangui.matrix.org (grupo en Matrix)
+*[http://telegram.org/sangui_net](Canal en Telegram)
