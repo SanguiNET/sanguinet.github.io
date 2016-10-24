@@ -1,6 +1,6 @@
-# Sitio web del proyecto Niaj-scio
+# Sitio web de la organización Sangui.net
 
-Este es el proyecto Niaj-scio. Es algo informativo y etretenido para los que quieren aprender en Telegram. Hemos creado el portal con el fin de impulsar el desarrollo de la mensajería mencionada.
+Este es la organización. Alberga todos los proyectos posibles, desde el uso de Telegram hasta detalles mayores.
 
 Su funcionamiento es fácil. La información lo hacemos de la forma más práctica posible. Solo necesitas un editor de texto si quieres mejorar.
 
@@ -20,7 +20,7 @@ Los artículos de niaj-scio.github.io están organizados en:
 		* "Media", carpeta de videos y archivos multimedia, éstos deben enlazarse a un portal externo como YouTube o Vimeo
 		* "Directorio", página recopilatoria de cananles y bots (se puede vincular los artículos si es posible)
 	* "About", sobre el portal web (casi análogo a este Léame)
-	* "Terms" o [página de términos](http://niaj-scio.github.io/terms/), incluido una cláusula de responsabilida limitada (oculto)
+	* "Terms" o [página de términos](http://sanguinet.github.io/terms/), incluido una cláusula de responsabilida limitada (oculto)
 * Los accesorios de la página
 	* "images" para las imágenes del sitio, recomendamos usar la menor cantidad de imágenes posible
 	* "\_data" carpeta para el encabezado, pie de página y la barra de navegación
@@ -50,9 +50,9 @@ Los artículos de niaj-scio.github.io están organizados en:
 * No requiere usar .htaccess en Github Pages por motivos de seguridad;
 * Y falta más.
 
-## Cómo mejorar Niaj-scio
+## Cómo se edita
 
-Recuerde que Niaj-scio está pensado en Telegram. Si deseas añadir trucos para potenciar Telegram o integrar servicios externos, eres bienvenido.
+Recuerda que Sangui.net no es una página recopilatoria. Nosotros usamos un editor de texto para organizar el sitio web. Aquí los pasos:
 
 ### Instalar una copia en la PC
 Para iniciar una copia del blog en la PC:
@@ -98,3 +98,6 @@ Si sientes que hay problemas SEO revisa la documentación debajo:
 * http://veithen.github.io/2014/11/17/jekyll-schema-org-metadata.html
 * http://jekyll.tips/tutorials/seo/
 * http://cesalberca.es/seo-con-jekyll
+
+## Licencia 
+Esta página está bajo Creative Commons Atribución-Compartir Igual Internacional 4.0. El logo está bajo la misma licencia registrado en http://www.safecreative.org/work/1610249551295.
