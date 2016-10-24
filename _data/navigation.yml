@@ -1,8 +1,8 @@
 # Site navigation links
 
-- title: Tutorial
-  url: /tutorial/
-  excerpt: "Todo lo que necesitas conocer acerca de Telegram."
+- title: Proyectos
+  url: /proyectos/
+  excerpt: "Nuestros proyectos."
   image: manejo.jpg
 
 - title: Artículos
@@ -12,7 +12,7 @@
   
 - title: Directorio
   url: /directorio/
-  excerpt: "Nuestro recopilatorio de canales y bots."
+  excerpt: "Nuestro directorio de Sangui.net."
   image: manejo.jpg 
   
 - title: Media
@@ -22,5 +22,5 @@
 
 - title: About
   url: /about/
-  excerpt: "Sobre este proyecto."
+  excerpt: "Sobre esta organización y contacto."
   image: manejo.jpg

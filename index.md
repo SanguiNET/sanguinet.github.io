@@ -1,18 +1,18 @@
 ---
 layout: home
-title:  Bienvenidos a Niaj-scio
+title:  Bienvenidos a Sangui.net
 permalink: /
 image:
   feature: sky-1920x1004.jpg
-tags: [Niaj-scio]
-excerpt: "Un empresa de casa"
+tags: [Sangui.net]
+excerpt: "Más allá del conocimiento"
 ---
 
 <div class="tiles">
 
 <div class="tile">
   <h2 class="post-title">Disfruta</h2>
-  <p class="post-excerpt">Niaj-scio es un negocio café dedicada a internautas con un catálogo de etretenimiento y productividad.</p>
+  <p class="post-excerpt">Sangui.net es una organización dedicado a servir a internautas con un catálogo de etretenimiento y productividad.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
@@ -28,7 +28,7 @@ excerpt: "Un empresa de casa"
 
 <div class="tile">
   <h2 class="post-title">Relájate</h2>
-  <p class="post-excerpt">Nuestra página crece y tu opinión también. Síguenos en las redes sociales para novedades.</p>
+  <p class="post-excerpt">Nuestra página crece y tu opinión también. <a href="/acercade">Estamos en contacto.</a>.</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->

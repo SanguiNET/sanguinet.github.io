@@ -14,14 +14,15 @@ ads: false
 
 Este sitio web está en pruebas. Visita frecuentemente para ver más novedades.
 
-Por el momento puedes ver los artículos y multimedia este sitio web. La información está simplificada al mínimo posible.
+Esta página está dedicada a las millones de personas que muestran el interés de conocer y apoyar en las actividades más recurrentes del planeta. Contiene artículos explicativos, análisis y muchos proyectos... Nuestra meta es ofrecer un perspectiva de las cosas como son, de manera gratuita y accesible para tus sugerencias.
 
-##Contáctenos
+
+## Contáctenos
 
 Por ahora los detalles organización serán revelados en un futuro. Mientras tanto puedes conectarte mediante redes sociales.
 
-*[http://twitter.com/sangui_net](Twitter)
-*[http://pinterest.com/sangui_net](Pinterest)
-*[http://github.com/sanguinet](Twitter)
+* [http://twitter.com/sangui_net](Twitter)
+* [http://pinterest.com/sangui_net](Pinterest)
+* [http://github.com/sanguinet](Twitter)
 * #sangui.matrix.org (grupo en Matrix)
-*[http://telegram.org/sangui_net](Canal en Telegram)
+* [http://telegram.org/sangui_net](Canal en Telegram)

@@ -11,22 +11,24 @@ share: false
 toc: true
 ---
 
-El contenido es mostrado para ayudar los lectores. La información y multimedia mostrado en el sitio no está ligado directamente con empresas u organizaciones de cualquier tipo. El creador de este sitio es Diego Sanguinetti y es el creador y administrador del sitio web Niaj-scio.github.io. Sí aceptas los términos podrás distrutar este blog sin problemas y puedes aportar recomendaciones en la página de contacto. ¡Gracias por tu compresión!
+Esta página distribuye la política de privacidad y del uso de esta página. El contenido es mostrado para ayudar los lectores. Resumimos que la información y multimedia mostrado en el sitio no está ligado directamente con empresas u organizaciones de cualquier tipo y los servicios que ofrecemos no están garantizado en lo absoluto. Agredecemos tus sugerencias para mejorar la calidad de la organización en la página de contacto (sección "Acerca de"). ¡Gracias por tu compresión!
 
 {% include toc.html %}
 
+# Sitio web
 ## Política de privacidad
 
-La privacidad de los visitantes es muy importante. Esta política de privacidad describe los tipos de información personal que se reciba y recogidos y cómo se utiliza.
+La privacidad de los visitantes es muy importante. Esta política de privacidad describe los tipos de información personal que se recibe y qué visitantes están interesados en la página web.
 
-En primer lugar, en este blog, no compartimos su dirección de correo electrónico o cualquier otra información personal a nadie sin su consentimiento directo. Cada persona es conciente de su sentido común.
+En general, no compartimos la dirección de correo electrónico o cualquier otra información personal a nadie sin tu consentimiento directo. Sin embargo, el visitante debe conocer el funcionamiento del sitio y realizar con sentido común.
 
 ### Registros
 
-Esta página no recopila información de forma nativa. No obstante, el sitio añade componentes de terceros.
+Esta página no recopila perfiles de usuario. No obstante, el sitio añade componentes de terceros.
 
-Como varias páginas web, esos componentes permiten registrar información (log files) para fines estadísticos. Al ser registros nos referimos a las visitas del sitio, el origen de los visitantes y el tráfico web.
-Para los fines publicitarios, se usa una cláusula diferente.
+Si revisas el código fuente [https://github.com/SanguiNET/sanguinet.github.io](en Github) utilizamos mecanismos para registrar información (log files) para fines estadísticos. Al ser registros nos referimos a las visitas del sitio, el origen de los visitantes y el tráfico web.
+
+Para los fines publicitarios te avisamos con una cláusula especial. Por el momento dejaremos esta información hasta que el sitio esté completamente revisado.
 
 El registro comprende:
 
@@ -77,20 +79,26 @@ Lo que esto significa para tu persona en palabras del creador y administrador Di
 
 Al igual que este sitio web, mi Política de publicidad es una cláusula que se renueva con el tiempo. Esto cambia a medida que los flujos de ingresos, la comunidad y el objectivo evolucione.
 
-## Sobre el sitio
-
-### Sistema de revisión del sitio
+## Sistema de revisión del sitio
 
 El sitio web se ofrece “tal cual”. Será responsabilidad tuya adoptar las precauciones necesarias para protegerte a ti mismo y a los sistemas de tu ordenador contra virus, gusanos, troyanos u otro contenido perjudicial o dañino. La organización no ha revisado, ni puede revisar, todo el material, incluido el software informático, publicado en el sitio web; no puede, por tanto, ser responsable del contenido, el uso o los efectos de dicho material. Si estás realmente leyendo esto, aquí hay una sorpresa. Entiendes que realizas descargas del sitio web, o que de otro modo obtienes contenido o servicios a través de él, por tu propia cuenta y riesgo.
 
 Antes de que moderemos a los debates en el sitio, comentarios publicados por los visitantes también pueden añadir a sus argumentos contenido ofensivo, indecente o, de otro modo, objetable, así como contenido que incluya imprecisiones técnicas, errores tipográficos u otros fallos. También es posible que los visitantes añadan material que infrinja los derechos de privacidad o publicidad, o bien que incumpla los derechos de propiedad intelectual u otros derechos de propiedad de terceros; la descarga, copia o uso de dicho material puede estar asimismo sujetos a términos y condiciones adicionales, explícitos o no. El creador rechaza cualquier responsabilidad por los perjuicios resultantes del uso que hagan los visitantes del sitio web o de las descargas que realicen dichos visitantes del contenido publicado.
 
-###Limitación de responsabilidad
-
-Limitación de responsabilidad. En ningún caso Niaj-sioo sus proveedores u otorgantes de licencias serán responsables de lo siguiente con respecto al objeto de este acuerdo bajo ningún tipo de contrato, negligencia, responsabilidad estricta u otra teoría legal o equitativa: (i) cualquier daño o perjuicio especial, incidental o derivado; (ii) el coste de la obtención de servicios o productos de sustitución; (iii) la interrupción del uso, o bien la pérdida o corrupción de los datos; o (iv) cualquier cantidad que exceda las tasas que hayas pagado a Automattic de acuerdo con este acuerdo durante el periodo de doce (12) meses anterior a la causa del proceso. Niaj-scio no tendrá ninguna responsabilidad por los fallos o retrasos debidos a cuestiones que excedan su capacidad de control razonable. Lo precedente no se aplicará en la medida en que lo prohíban las leyes pertinentes.
-
 ### Derechos de autor y miscelánea
 
-Los artículos y multimedias producidos por este blog están bajo los términos del Creative Commons license, versión 4.0, el cual puede ser localizado aqui: http://creativecommons.org/licenses/by/4.0/
+Los artículos y multimedias producidos por este blog están bajo los términos del Creative Commons license, versión 4.0, el cual puede ser localizado aqui: http://creativecommons.org/licenses/by-sa/4.0/
 Este tema y algunos componentes del blog son de licencia libre y de código abierto, distribuidos bajo MIT License. 
 Agradecemos a Auttomatic por copiar [algunas cláusulas](https://es.wordpress.com/tos/) para el sitio. Está bajo Creative Commons Atribución-CompartirIgual 4.0.
+
+#Organización
+##Limitación de responsabilidad
+
+Esta organización está operada de forma independiente.
+
+En ningún caso Sangui.net, sus proveedores y empresas licenciadas serán responsables de lo siguiente con respecto al objeto de este acuerdo bajo ningún tipo de contrato, negligencia, responsabilidad estricta u otra teoría legal o equitativa: (i) cualquier daño o perjuicio especial, incidental o derivado; (ii) el coste de la obtención de servicios o productos de sustitución; (iii) la interrupción del uso, o bien la pérdida o corrupción de los datos; o (iv) el derecho de admisión del servicio producto de actos indebidos u obligaciones del Estado; (v) realizaciones no indicadas oficialmente por la organización.
+
+Sangui.net no tendrá ninguna responsabilidad por los fallos o retrasos debidos a cuestiones que excedan su capacidad de control razonable. Lo precedente no se aplicará en la medida en que lo prohíban las leyes pertinentes.
+
+##Cambios en la política
+Al menos que se indique lo contrario, avisaremos los cambios solo en el blog de la página web. Avísenos en la página de contacto si no indicamos los cambios en la página "Términos y condiciones".
