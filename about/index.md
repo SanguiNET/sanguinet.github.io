@@ -21,9 +21,10 @@ Esta página está dedicada a las millones de personas que muestran el interés 
 
 Por ahora los detalles organización serán revelados en un futuro. Mientras tanto puedes conectarte mediante redes sociales.
 
-* (http://twitter.com/sangui_net)[Twitter]
-* (http://pinterest.com/sangui_net)[Pinterest]
-* (http://github.com/sanguinet)[Twitter]
-* (https://plus.google.com/b/116757383497665954529)[Google+]
-* #sangui.matrix.org (grupo en Matrix)
-* [http://telegram.org/sangui_net][Canal en Telegram]
+* [Twitter](http://twitter.com/sangui_net)
+* [Pinterest](http://pinterest.com/sangui_net)
+* [Github](http://github.com/sanguinet)
+* [Google+](https://plus.google.com/b/116757383497665954529)
+* [Canal en Telegram](http://telegram.org/sangui_net)
+
+Adicionalmente creamos un grupo en el canal Matrix con #sangui.matrix.org. Esto en reemplazo de IRC y Slack por cuestiones de facilidad de uso, multiplataforma, e integración con otras herramientas. Si deseas acceder puedes hacerlo desde [Riot](http://riot.im).
