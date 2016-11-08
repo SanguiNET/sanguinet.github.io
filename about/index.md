@@ -27,4 +27,4 @@ Por ahora los detalles organización serán revelados en un futuro. Mientras tan
 * [Google+](https://plus.google.com/b/116757383497665954529)
 * [Canal en Telegram](http://telegram.org/sangui_net)
 
-Adicionalmente creamos un grupo en el canal Matrix con #sangui.matrix.org. Esto en reemplazo de IRC y Slack por cuestiones de facilidad de uso, multiplataforma, e integración con otras herramientas. Si deseas acceder puedes hacerlo desde [Riot](http://riot.im).
+Adicionalmente creamos un [grupo en Matrix](https://riot.im/app/#/room/#sangui:matrix.org). Esto en reemplazo de IRC y Slack por cuestiones de facilidad de uso, multiplataforma, e integración con otras herramientas. Si deseas acceder puedes hacerlo desde [Riot](http://riot.im).
