@@ -12,6 +12,8 @@ image:
 share: false
 ---
 
+Sin dirección disponible.
+
 Próximamente.
 
 {% include toc.html %}

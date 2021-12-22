@@ -9,18 +9,18 @@
   url: /articles/
   excerpt: "Temas para debatir."
   image: manejo.jpg
-  
+
 - title: Organización
   url: /organizacion/
   excerpt: "Lo que hacemos."
   image: manejo.jpg
-  
+
 - title: Media
   url: /media/
   excerpt: "Archivos multimedia para mejor experiencia."
   image: manejo.jpg
 
-- title: About
+- title: Acerca de
   url: /about/
   excerpt: "Sobre esta organización y contacto."
   image: manejo.jpg

@@ -38,16 +38,16 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Niaj-scio
-  web: 
+  name: SanguiNET
+  web:
   email: niaj-scio@outlook.com
   twitter: niaj-scio
-  bio: "Sitio web para aprender y mejorar la mensajería Telegram y otras posibilidades en rumbos."
+  bio: "Una organización para aprender y descubrir nuevas tecnologías y plataformas tecnológicas."
   avatar: bio-photo.jpg # 160x160 px image for author byline
   google:
-    plus: 
-    ad-client: 
-    ad-slot: 
+    plus:
+    ad-client:
+    ad-slot:
   disqus-shortname: niajscio
 
 

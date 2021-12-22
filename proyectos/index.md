@@ -21,3 +21,7 @@ Iremos ampliando con el tiempo.
 ## Tutoriales
 
 * <a href="{{ site.url }}/teledoc/"> Teledoc(Tutorial sobre Telegram)</a>
+
+## Plataformas de TV Online abierta
+
+* <a href="{{ site.url }}/tele/"> Tele (canales nacionales, internacionales y locales)</a>
