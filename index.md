@@ -11,24 +11,24 @@ excerpt: "Más allá del conocimiento"
 <div class="tiles">
 
 <div class="tile">
-  <h2 class="post-title">Disfruta</h2>
-  <p class="post-excerpt">Sangui.net es una organización dedicado a servir a internautas con un catálogo de etretenimiento y productividad.</p>
+  <h2 class="post-title">Catálogo de frescas ideas</h2>
+  <p class="post-excerpt">Sangui.net es una organización creativa con un catálogo variado de conocimiento, etretenimiento y productividad.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Nuestro objetivo</h2>
-  <p class="post-excerpt">Nuestro enfoque está en la calidad, el servicio y la creatividad a los usuarios.</p>
+  <h2 class="post-title">Sirviendo al público</h2>
+  <p class="post-excerpt">Nuestro enfoque a los internautas está en la calidad, el servicio y la practicidad en los servicios.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Infórmate</h2>
-  <p class="post-excerpt">Nuestros posts informan novedades. Hacemos proyectos para expandir tu experiencia.</p>
+  <h2 class="post-title">Formando el conocimiento</h2>
+  <p class="post-excerpt">Ampliamos la cobertura de los servicios para dejar el legado a futuros usuarios.</p>
 </div><!-- /.tile -->
 
 
 <div class="tile">
-  <h2 class="post-title">Relájate</h2>
-  <p class="post-excerpt">Nuestra página crece y tu opinión también. <a href="{{ site.url }}/acercade/"Estamos en contacto.</a>.</p>
+  <h2 class="post-title">En comunicación</h2>
+  <p class="post-excerpt">Nuestros posts informan novedades sobre la organización. <a href="{{ site.url }}/acercade/">Estamos en contacto</a>, escuchando tus comentarios.</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
