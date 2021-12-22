@@ -5,7 +5,7 @@ permalink: /
 image:
   feature: sky-1920x1004.jpg
 tags: [Sangui.net]
-excerpt: "Más allá del conocimiento"
+excerpt: "Simplificando la tecnología del conocimiento y entretenimiento"
 ---
 
 <div class="tiles">
@@ -17,12 +17,12 @@ excerpt: "Más allá del conocimiento"
 
 <div class="tile">
   <h2 class="post-title">Sirviendo al público</h2>
-  <p class="post-excerpt">Nuestro enfoque a los internautas está en la calidad, el servicio y la practicidad en los servicios.</p>
+  <p class="post-excerpt">Nuestro enfoque a los internautas está en la calidad, el servicio y la practicidad en los servicios. Recurrimos a técnicas para hacer los recursos accesibles.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">Formando el conocimiento</h2>
-  <p class="post-excerpt">Ampliamos la cobertura de los servicios para dejar el legado a futuros usuarios.</p>
+  <p class="post-excerpt">Ampliamos la cobertura de los servicios para dejar el legado a futuros usuarios. Aportando los estándares abiertos.</p>
 </div><!-- /.tile -->
 
 

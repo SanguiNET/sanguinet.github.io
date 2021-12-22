@@ -1,17 +1,17 @@
 # Sitio web de la organización Sangui.net
 
-Este es la organización. Alberga todos los proyectos posibles, desde el uso de Telegram hasta detalles mayores.
+Este es la organización SanguiNET. Alberga todos los proyectos posibles, desde documentación hasta productos y servicios tecnológicos.
 
 Su funcionamiento es fácil. La información lo hacemos de la forma más práctica posible. Solo necesitas un editor de texto si quieres mejorar.
 
-Está basado en Jekyll con el tema [Skinny Bonnes](https://github.com/Niaj-scio/skinny-bones-jekyll) con variaciones. Para ver el portal en la PC sin Internet revisa la documentación más abajo.
+Está basado en Jekyll con el tema [Skinny Bonnes](https://github.com/SanguiNET/skinny-bones-jekyll) con variaciones. Para ver el portal en la PC sin Internet revisa la documentación más abajo.
 
 Por el momento esta página está en idioma español. Pueden añadir aportes para crecer el portal. Más información se añadirá a su momento.
 
 ---
 
 ## Qué contiene el blog
-Los artículos de niaj-scio.github.io están organizados en:
+Los artículos de sanguinet.github.io están organizados en:
 
 * Las páginas y carpetas
 	* "Herramientas", página relacionada a Telegram y primeros pasos
@@ -32,7 +32,7 @@ Los artículos de niaj-scio.github.io están organizados en:
 	* "index.md"
 		*En la raíz para la página con texto modificable, no confuir con home.html para el código Ruby
 		*En las carpetas como "Articles" es el directorio URL antes de acceder al arículo
-		
+
 ## Características del blog
 
 ![screenshot of Skinny Bones](http://mmistakes.github.io/skinny-bones-jekyll/images/skinny-bones-theme-feature.jpg)
@@ -93,11 +93,12 @@ Para crear o modificar un documento:
 		* Modificar un artículo .md
 3. ¡Usa un editor de texto y redacta tu artículo!
 	* Opcionalmente, usa el editor de texto [Stackedit](https://stackedit.io/editor) para previsualizar en línea
+4.
 ### SEO
 Si sientes que hay problemas SEO revisa la documentación debajo:
 * http://veithen.github.io/2014/11/17/jekyll-schema-org-metadata.html
 * http://jekyll.tips/tutorials/seo/
 * http://cesalberca.es/seo-con-jekyll
 
-## Licencia 
-Esta página está bajo Creative Commons Atribución-Compartir Igual Internacional 4.0. El logo está bajo la misma licencia registrado en http://www.safecreative.org/work/1610249551295.
+## Licencia
+Esta página está bajo Creative Commons Atribución-Compartir Igual Internacional 4.0, al menos que se indique lo contrario. El logo está bajo la misma licencia registrado en http://www.safecreative.org/work/1610249551295.
