@@ -17,12 +17,12 @@ excerpt: "Simplificando la tecnología del conocimiento y entretenimiento"
 
 <div class="tile">
   <h2 class="post-title">Sencillez fortalece la calidad</h2>
-  <p class="post-excerpt">Nuestro enfoque para los internautas está en ofrecer calidad con servicios y productos accesibles.  Para los usuarios de hoy que buscan lo sencillo.</p>
+  <p class="post-excerpt">Nuestro enfoque para los internautas está en darle utilidad y calidad en nuestros servicios y productos. Para los usuarios de hoy que buscan lo sencillo ya accesible.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">Documentando el futuro</h2>
-  <p class="post-excerpt">Aportamos en interoperar y documentar servicios, para garantizar su permanencia y legado a futuros usuarios. Nos centramos en estándares abiertos.</p>
+  <p class="post-excerpt">Aportamos en interoperar y documentar servicios, para garantizar su permanencia y legado a futuros usuarios. Nos centramos en estándares abiertos y ampliando los existentes.</p>
 </div><!-- /.tile -->
 
 
